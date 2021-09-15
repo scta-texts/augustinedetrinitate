@@ -63,7 +63,7 @@
           <div xml:id="adt-l1-Dd1e107">
             <head xml:id="adt-l1-Hd1e109">1</head>
             <p xml:id="adt-l1-d1e8">
-              <lb ed="#G" n="20"/>Lecturus 
+              <lb ed="#G" n="21"/>Lecturus 
               <lb ed="#G"/>haec quae de trinitate 
               <lb ed="#G"/>disserimus prius oportet 
               <lb ed="#G"/>ut nouerit stilum nostrum ad<lb ed="#G" break="no"/>uersus 
@@ -72,14 +72,113 @@
               initium immaturo et 
               <cb ed="#G" n="b"/>
               <lb ed="#G"/>peruerso rationis amore falluntur. 
-              <lb ed="#G"/>Quorum nonnulli ea quae de corporalibus rebus siue per sensus corporeos experta notauerunt, siue quae natura humani ingenii et diligentiae uiuacitate uel artis adiutorio perceperunt, ad res incorporeas et spiritales transferre conantur ut ex his illas metiri atque opinari uelint. Sunt item alii qui secundum animi humani naturam uel affectum de deo sentiunt, si quid sentiunt, et ex hoc errore cum de deo disputant sermoni suo distortas et fallaces regulas figunt. Est item aliud hominum genus, eorum qui uniuersam quidem creaturam, quae profecto mutabilis est, nituntur transcendere ut ad incommutabilem substantiam quae deus est erigant intentionem; sed mortalitatis onere praegrauati cum et uideri uolunt scire quod nesciunt et quod uolunt scire non possunt, praesumptiones opinionum suarum audacius affirmando intercludunt sibimet intellegentiae uias, magis eligentes sententiam suam non corrigere peruersam quam mutare defensam.</p>
-            
-            <p xml:id="adt-l1-d1e11">Et hic quidem omnium morbus est trium generum quae proposui: et eorum scilicet qui secundum corpus de deo sapiunt; et eorum qui secundum spiritalem creaturam, sicuti est anima; et eorum qui neque secundum corpus neque secundum spiritalem creaturam, et tamen de deo falsa existimant, eo remotiores a uero quo id quod sapiunt nec in corpore reperitur nec in facto et condito spiritu nec in ipso creatore. Qui enim opinatur deum, uerbi gratia, candidum uel rutilum, fallitur; sed tamen haec inueniuntur in corpore. Rursus qui opinatur deum nunc obliuiscentem, nunc recordantem uel si quid huiusmodi est, nihilominus in errore est; sed tamen haec inueniuntur in animo. Qui autem putant eius esse potentiae deum ut seipsum ipse genuerit, eo plus errant quod non solum deus ita non est sed nec spiritalis nec corporalis creatura. Nulla enim omnino res est quae se ipsam gignat ut sit.</p>
+              <lb ed="#G"/>Quorum nonnulli ea quae de corpo<lb ed="#G"/>ralibus 
+              rebus siue per sensus corporeos 
+              <lb ed="#G"/>experta notauerunt, siue quae natura 
+              <lb ed="#G"/>humani ingenii et diligentiae uiua<lb ed="#G"/>citate 
+              uel artis adiutorio perceperunt 
+              <lb ed="#G"/>ad res incorporeas et spiritales trans<lb ed="#G"/>ferre 
+              conantur ut ex his illas meti<lb ed="#G"/>ri 
+              atque opinari uelint. Sunt item 
+              <lb ed="#G"/>alii qui secundum animi humani natu<lb ed="#G"/>ram 
+              uel affectum de deo sentiunt, si quid 
+              <lb ed="#G"/>sentiunt, et ex hoc errore cum de deo 
+              <lb ed="#G"/>disputant sermoni suo distortas et 
+              <lb ed="#G"/>fallaces regulas figunt. Est item 
+              <lb ed="#G"/>aliud hominum genus, eorum qui 
+              <lb ed="#G"/>uniuersam quidem creaturam, quae 
+              <lb ed="#G"/>profecto mutabilis est, nituntur 
+              <lb ed="#G"/>transcendere ut ad incommutabi<lb ed="#G"/>lem 
+              substantiam quae deus est erigant 
+              <lb ed="#G"/>intentionem; sed mortalitatis one<lb ed="#G"/>re 
+              praegrauati cum et uideri 
+              <lb ed="#G"/>uolunt scire quod nesciunt et quod uolunt 
+              <lb ed="#G"/>scire non possunt, praesumptiones 
+              <lb ed="#G"/>opinionum suarum audacius affir<lb ed="#G"/>mando 
+              intercludunt sibimet in<lb ed="#G"/>tellegentiae 
+              uias, magis eligen<lb ed="#G"/>tes 
+              sententiam suam non corrigere 
+              <lb ed="#G"/>peruersam quam mutare defensam.
+            </p>
+            <p xml:id="adt-l1-d1e11">Ut hic quidem omnium morbus est trium generum quae propo<lb ed="#G"/>sui 
+              et eorum scilicet qui secundum cor<lb ed="#G"/>pus 
+              de deo sapiunt; et eorum qui 
+              <lb ed="#G"/>secundum spiritalem creaturam, sicut
+              <pb ed="#G" n="13"/>
+              <cb ed="#G" n="a"/>
+              <lb ed="#G"/>est anima et eorum qui neque secundum corpus 
+              <lb ed="#G"/>neque secundum spiritalem creaturam, et ta<lb ed="#G"/>men 
+              de deo falsa existimant, eo re<lb ed="#G"/>motiores 
+              a uero quo id quod sapiunt 
+              <lb ed="#G"/>nec in corpore repperitur nec in fac<lb ed="#G"/>to 
+              et condito spiritu nec in ipso creatore. 
+              <lb ed="#G"/>Qui enim opinatur deum, uerbi gratia, 
+              <lb ed="#G"/>candidum uel rutilum, fallitur; sed ta<lb ed="#G"/>men 
+              haec inueniuntur in corpore. 
+              <lb ed="#G"/>Rursus qui opinatur deum nunc obliuiscentem, 
+              <lb ed="#G"/>nunc recordantem uel si quid huius<lb ed="#G"/>modi 
+              est, nihilominus in errore est; 
+              <lb ed="#G"/>sed tamen haec inueniuntur in animo. 
+              <lb ed="#G"/>Qui autem putant eius esse potentiae 
+              <lb ed="#G"/>deum ut seipsum ipse genuerit, eo plus 
+              <lb ed="#G"/>errant quod non solum deus ita non est 
+              <lb ed="#G"/>sed nec spiritalis nec corporalis crea<lb ed="#G"/>tura. 
+              nulla enim omnino res est quae 
+              <lb ed="#G"/>se ipsam gignat ut sit.
+            </p>
           </div>
           <div xml:id="adt-l1-Dd1e119">
             <head xml:id="adt-l1-Hd1e121">2</head>
-            
-            <p xml:id="adt-l1-d1e14">Vt ergo ab huiusmodi falsitatibus humanus animus purgaretur, sancta scriptura paruulis congruens nullius generis rerum uerba uitauit ex quibus quasi gradatim ad diuina atque sublimia noster intellectus uelut nutritus assurgeret. Nam et uerbis ex rebus corporalibus sumptis usa est cum de deo loqueretur, uelut cum ait: Sub umbraculo alarum tuarum protege me. Et de spiritali creatura multa transtulit quibus significaret illud quod ita non esset sed ita dici opus esset, sicuti est: Ego sum deus zelans, et: Poenitet me hominem fecisse. De rebus autem quae omnino non sunt non traxit aliqua uocabula quibus uel figuraret locutiones uel sirparet aenigmata. Vnde perniciosius et inanius euanescunt qui tertio illo genere erroris a ueritate secluduntur hoc suspicando de deo quod neque in ipso neque in ulla creatura inueniri potest. Rebus enim quae in creatura reperiuntur solet scriptura diuina uelut infantilia oblectamenta formare quibus infirmorum ad quaerenda superiora et inferiora deserenda pro suo modulo tamquam passibus moueretur aspectus. Quae uero proprie de deo dicuntur, quae in nulla creatura reperiuntur, raro ponit scriptura diuina, sicut illud quod dictum est ad Moysen: Ego sum qui sum, et: Qui est misit me ad uos. Cum enim esse aliquo modo dicatur et corpus et animus, nisi proprio quodam modo uellet intellegi, non id utique diceret. Et illud quod ait apostolus: <quote xml:id="adt-l1-QdcdXnX" source="http://scta.info/resource/Itim6_16@1-4">Qui solus habet immortalitatem</quote>. Cum et anima modo quodam immortalis esse dicatur et sit, non diceret, solus habet, nisi quia uera immortalitas incommutabilitas est, quam nulla potest habere creatura quoniam solius creatoris est. Hoc et Iacobus dicit: Omne datum optimum et omne donum perfectum desursus est descendens a patre luminum, apud quem non est commutatio nec momenti obumbratio. Hoc et Dauid: Mutabis ea et mutabuntur; tu autem idem ipse es.</p>
+            <p xml:id="adt-l1-d1e14">
+              Ut ergo ab huius<lb ed="#G"/>modi 
+              falsitatibus humanus animus 
+              <lb ed="#G"/>purgaretur, sancta scriptura paruulis 
+              <lb ed="#G"/>congruens nullius generis rerum 
+              <lb ed="#G"/>uerba uitauit Ex quibus quasi 
+              <lb ed="#G"/>gradatim ad diuina atque sublimia 
+              <lb ed="#G"/>noster intellectus uelut nutritus as<lb ed="#G"/>surgeret; 
+              Nam et uerbis ex rebus cor<lb ed="#G"/>poralibus 
+              sumptis usa est cum de deo loque<lb ed="#G"/>retur 
+              uelut cum ait. sub umbraculo ala<lb ed="#G"/>rum 
+              tuarum protege me. Et de spiri<lb ed="#G"/>tali 
+              creatura multa transtulit 
+              <lb ed="#G"/>quibus significaret illud quod ita non
+              <lb ed="#G"/>esset sed ita dici opus esset, sicuti est: 
+              <cb ed="#G" n="b"/>
+              <lb ed="#G"/>ego sum deus zelans, et: penitet me hominem 
+              <lb ed="#G"/>fecisse. ee rebus autem quae omnino 
+              <lb ed="#G"/>non sunt non traxit aliqua uocabu<lb ed="#G"/>la 
+              quibus uel figuraret locutiones 
+              <lb ed="#G"/>uel spissaret aenigmata. Vnde per<lb ed="#G"/>nitiosius 
+              et inanius euanescunt qui 
+              <lb ed="#G"/>tertio illo genere erroris a ueritate 
+              <lb ed="#G"/>secluduntur hoc suspicando de deo 
+              <lb ed="#G"/>quod neque in ipso neque in ulla creatu<lb ed="#G"/>ra 
+              inueniri potest. Rebus enim 
+              <lb ed="#G"/>quae in creatura reperiuntur solet 
+              <lb ed="#G"/>scriptura diuina uelut infantilia 
+              <lb ed="#G"/>oblectamenta formare quibus in<lb ed="#G"/>firmorum 
+              ad quaerenda superiora 
+              <lb ed="#G"/>et inferiora deserenda pro suo mo<lb ed="#G"/>dulo 
+              tamquam passibus moueretur aspectus. Quae uero propri<del>a</del>e de 
+              <lb ed="#G"/>deo dicuntur, quae in nulla creatura 
+              <lb ed="#G"/>reperiuntur, raro ponit scriptu<lb ed="#G"/>ra 
+              diuina, sicut illud quod dictum 
+              <lb ed="#G"/>est ad moysen: Ego sum qui sum, 
+              <lb ed="#G"/>et: qui est misit me ad uos. Cum enim 
+              <lb ed="#G"/>esse aliquo modo dicatur et corpus 
+              <lb ed="#G"/>et animus, nisi proprio quodam mo<lb ed="#G"/>do 
+              uellet intellegi, non id utique di<lb ed="#G"/>ceret. 
+              <add place="above-line">Et</add> illud quod ait apostolus: <quote xml:id="adt-l1-QdcdXnX" source="http://scta.info/resource/Itim6_16@1-4">qui 
+              <lb ed="#G"/>solus habet immortalitatem</quote>. cum 
+              <lb ed="#G"/>et anima modo quodam inmorta<lb ed="#G"/>lis 
+              esse dicatur et sit, Non diceret, solus habet, nisi quia uera immor<lb ed="#G"/>talitas 
+              incommutabilitas ita est quam 
+              <lb ed="#G"/>nulla potest habere creatura quoniam 
+              <pb ed="#G" n="14"/>
+              <cb ed="#G" n="a"/>
+              <!-- left off -->
+              <lb ed="#G"/>solius creatoris est. Hoc et Iacobus dicit: Omne datum optimum et omne donum perfectum desursus est descendens a patre luminum, apud quem non est commutatio nec momenti obumbratio. Hoc et Dauid: Mutabis ea et mutabuntur; tu autem idem ipse es.</p>
           </div>
           <div xml:id="adt-l1-Dd1e128">
             <head xml:id="adt-l1-Hd1e130">3</head>
