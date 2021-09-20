@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Liber 14</title>
+        <title>Liber 14 [Cod. Sang. 175 Transcription]</title>
         <author ref="#Augustine">Augustine</author>
         <respStmt>
-          <name xml:id="JW">Jeffrey C. Witt</name>
-          <resp>TEI encoder</resp>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor; TEI encoder</resp>
         </respStmt>
         
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
           <title>Liber 14</title>
-          <date when="2018-09-14">September 14, 2018</date>
+          <date when="2021-09-20">September 20, 2021</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -27,20 +28,21 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness/>
+          <witness xml:id="G" n="cod-X87ab6">St. Gallen, Stiftsbibliothek, Cod. Sang. 175</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
       <editorialDecl>
-        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-          guidelines for a critical edition.</p>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
       </editorialDecl>
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2018-09-14" status="draft" n="0.0.0">
+        <change when="2021-09-15" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
@@ -48,7 +50,10 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="starts-on"/>
+      <div xml:id="starts-on">
+        <pb ed="#G" n="280"/>
+        <cb ed="#G" n="a"/>
+      </div>
     </front>
     <body>
       <div xml:id="adt-l14">
@@ -58,17 +63,149 @@
           <div xml:id="adt-l14-Dd1e107">
             <head xml:id="adt-l14-Hd1e109">1</head>
             
-            <p xml:id="adt-l14-d1e1526">Nunc de sapientia nobis est disserendum, non illa dei quae procul dubio deus est (nam sapientia dei filius eius unigenitus dicitur), sed loquemur de hominis sapientia, uera tamen quae secundum deum est et uerus ac praecipuus cultus eius est, quae uno nomine *theosebeia graece appellatur. Quod nomen nostri sicut iam commemorauimus uolentes et ipsi uno nomine interpretari 'pietatem' dixerunt, cum pietas apud graecos *eusebeia usitatius nuncupetur, *theosebeia uero quia uno uerbo perfecte non potest, melius interpretatur duobus ut dicatur potius 'dei cultus.'</p>
-            
-            <p xml:id="adt-l14-d1e1529">Hanc esse hominis sapientiam, quod et in duodecimo huius operis uolumine iam posuimus, scripturae sanctae auctoritate monstratur in libro serui dei Iob ubi legitur dei sapientiam dixisse homini: Ecce pietas est sapientia; abstinere autem a malis scientia (siue etiam ut nonnulli de graeco *epistemen interpretati sunt, disciplina, quae utique a discendo nomen accepit, unde et scientia dici potest; ad hoc enim quaeque res discitur ut sciatur, quamuis alia notione in his quae pro peccatis suis mala quisque patitur ut corrigatur dici soleat disciplina. Vnde illud est in <ref xml:id="adt-l14-Rd1e117" corresp="#adt-l14-Qd1e120">epistula ad hebraeos</ref>: <quote xml:id="adt-l14-Qd1e120" source="http://scta.info/resource/hebr12_7@9-15">Quis enim est filius cui non det disciplinam pater eius?</quote>, et illud euidentius in <ref xml:id="adt-l14-Rd1e123" corresp="#adt-l14-Qd1e123">eadem</ref>: <quote xml:id="adt-l14-Qd1e123" source="http://scta.info/resource/hebr12_11@1-21">Omnis uero disciplina ad tempus non gaudii uidetur esse sed tristitiae; postea uero fructum pacificum his qui per eam certarunt reddet iustitiae</quote>. Deus ergo ipse summa sapientia; cultus autem dei sapientia est hominis de qua nunc loquimur. Nam sapientia huius mundi stultitia est apud deum. Secundum hanc itaque sapientiam quae dei cultus est ait sancta scriptura: Multitudo sapientium sanitas est orbis terrarum.</p>
+            <p xml:id="adt-l14-d1e1526">
+              <lb ed="#G" n="1"/>INCIPIT LIBER XIIII
+              <lb ed="#G"/>Nunc de sapientia no<lb ed="#G"/>bis 
+              est disserendum, non 
+              <lb ed="#G"/>illa dei quae procul dubio deus 
+              <lb ed="#G"/>est Nam sapientia dei filius eius 
+              <lb ed="#G"/>unigenitus dicitur, sed loquemur 
+              <lb ed="#G"/>de hominis sapientia, uera tamen quae 
+              <lb ed="#G"/>secundum deum est et uerus ac praecipu<lb ed="#G"/>us 
+              cultus eius est, quae uno nomi<lb ed="#G"/>ne 
+              theosebia graece appellatur 
+              <lb ed="#G"/>Quod nomen nostri sicut iam commemo<lb ed="#G"/>rauimus 
+              uolentes et ipsi uno nomine 
+              <lb ed="#G"/>interpretari <mentioned>pietatem</mentioned> dixerunt, cum pi<lb ed="#G"/>etas 
+              apud graecos eusebia usitatius nun<lb ed="#G"/>cupetur, 
+              Theosebia uero quia uno 
+              <lb ed="#G"/>uerbo perfecte non potest, melius 
+              <lb ed="#G"/>interpretatur duobus ut dicatur poti<lb ed="#G"/>us 
+              'dei cultus.'
+            </p>
+            <p xml:id="adt-l14-d1e1529">hanc esse hominis sapien<lb ed="#G"/>tiam 
+              quod et in duodecimo huius operis uolumine iam posuimus scriptu<lb ed="#G"/>rae 
+              sanctae auctoritate monstratur 
+              <lb ed="#G"/>In libro serui dei <name>iob</name> ubi legitur dei sa<lb ed="#G"/>pientiam 
+              dixisse homini: Ecce pi<lb ed="#G"/>etas 
+              est sapientia; abstinere autem a ma<lb ed="#G"/>lis 
+              scientia Siue etiam ut nonnulli 
+              <lb ed="#G"/>de graeco epistemen interpretatis sunt 
+              <lb ed="#G"/>disciplina quae utique a discendo no<lb ed="#G"/>men 
+              accepit unde et scientia dici 
+              <lb ed="#G"/>potest; Ad hoc enim quaeque res disci<lb ed="#G"/>tur 
+              ut sciatur; Quamuis alia noti<lb ed="#G"/>one 
+              in his quae pro peccatis suis mala 
+              <lb ed="#G"/>quisque patitur ut corrigatur Dici 
+              <lb ed="#G"/>soleat disciplina. Unde illud 
+              <lb ed="#G"/>est in <ref xml:id="adt-l14-Rd1e117">epistula ad hebreos</ref>: <quote xml:id="adt-l14-Qd1e120">Quis 
+              <lb ed="#G"/>enim est filius cui non det discipli<lb ed="#G"/>nam 
+              pater eius?</quote> Et illud euiden<lb ed="#G"/>tius 
+              in <ref xml:id="adt-l14-Rd1e123">eadem</ref>: <quote xml:id="adt-l14-Qd1e123">Omnis uero discipli<lb ed="#G"/>na 
+              ad tempus non gaudii uidetur 
+              <lb ed="#G"/>esse sed tristitiae. Postea uero fruc<lb ed="#G"/>tum 
+              pacificum his qui per eam certarunt 
+              <lb ed="#G"/>reddet iustitiae</quote>. Deus ergo ipse sum<lb ed="#G"/>ma 
+              sapientia; cultus autem dei sapienti<lb ed="#G"/>a 
+              est hominis de qua nunc loquimur. 
+              <lb ed="#G"/>Nam sapientia huius mundi stultitia 
+              <lb ed="#G"/>est apud deum. Secundum hanc itaque 
+              <lb ed="#G"/>sapientiam quae dei cultus est ait sancta 
+              <lb ed="#G"/>scriptura: Multitudo sapientium sa<lb ed="#G"/>nitas 
+              est orbis terrarum.
+            </p>
           </div>
           <div xml:id="adt-l14-Dd1e119">
             <head xml:id="adt-l14-Hd1e121">2</head>
-            <p xml:id="adt-l14-d1e1532">Sed si de sapientia disputare sapientium est, quid agemus? Numquidnam profiteri audebimus sapientiam ne sit nostra de illa impudens disputatio? Nonne terrebimur exemplo Pythagorae qui cum ausus non fuisset sapientem profiteri, philosophum potius, id est amatorem sapientiae, se esse respondit, a quo id nomen exortum ita deinceps posteris placuit ut quantalibet de rebus ad sapientiam pertinentibus doctrina quisque uel sibi uel aliis uideretur excellere non nisi philosophus uocaretur? An ideo sapientem profiteri talium hominum nullus audebat quia sine ullo peccato putabant esse sapientem? Hoc autem nostra scriptura non dicit quae dicit: Argue sapientem, et amabit te; profecto enim iudicat habere peccatum quem censet arguendum. Sed ego nec sic quidem sapientem me audeo profiteri. Satis est mihi quod etiam ipsi negare non possunt, esse etiam philosophi, id est amatoris sapientiae, de sapientia disputare. Non enim hoc illi facere destiterunt qui se amatores sapientiae potius quam sapientes esse professi sunt.</p>
+            <p xml:id="adt-l14-d1e1532">
+              Sed si de sa<lb ed="#G"/>pientia 
+              disputare sapientium est quid 
+              <lb ed="#G"/>agemus? Numquid nam profiteri au<lb ed="#G"/>debimus 
+              sapientiam ne sit nostra de illa in<lb ed="#G"/>pudens 
+              disputatio? Nonne terrebimur 
+              <lb ed="#G"/>exemplo <name>pithagorae</name> Qui cum ausus 
+              <lb ed="#G"/>non fuisset sapientem profiteri, phi<lb ed="#G"/>losophum 
+              potius, id est amatorem sapientiae, se esse respondit, a quo id no<lb ed="#G"/>men 
+              exortum ita deinceps posteris 
+              <lb ed="#G"/>placuit ut quantalibet de rebus ad sapi<lb ed="#G"/>entiam 
+              pertinentibus doctrina quisque 
+              <lb ed="#G"/>uel sibi uel aliis uideretur excellere 
+              <lb ed="#G"/>non nisi <seg type="correction">philo<add place="above-line">so</add>phus</seg> uocaretur? An 
+              <lb ed="#G"/>ideo sapientem profiteri talium hominum 
+              <lb ed="#G"/>nullus audebat quia sine ullo pecca<lb ed="#G"/>to 
+              putabant esse sapientem? Hoc 
+              <pb ed="#G" n="281"/>
+              <cb ed="#G" n="a"/>
+              <lb ed="#G"/>autem nostra scriptura non dicit quae di<lb ed="#G"/>cit: 
+              Argue sapientem, et amabit 
+              <lb ed="#G"/>te; profecto enim iudicat habere 
+              <lb ed="#G"/>peccatum quem censet arguendum. 
+              <lb ed="#G"/>Sed ego nec sic quidem sapientem me au<lb ed="#G"/>deo 
+              profiteri. Satis est mihi quod 
+              <lb ed="#G"/>etiam ipsi negare non possunt, esse etiam 
+              <lb ed="#G"/>philosophi, id est amatoris sapien<lb ed="#G"/>tiae, 
+              de sapientia disputare. Non 
+              <lb ed="#G"/>enim hoc illi facere destiterunt qui 
+              <lb ed="#G"/>se amatores sapientiae potius quam 
+              <lb ed="#G"/>sapientes esse professi sunt.
+            </p>
           </div>
           <div xml:id="adt-l14-Dd1e128">
             <head xml:id="adt-l14-Hd1e130">3</head>
-            <p xml:id="adt-l14-d1e1535">Disputantes autem de sapientia definierunt eam dicentes: Sapientia est rerum humanarum diuinarumque scientia. Vnde ego quoque in libro superiore utrarumque rerum cognitionem, id est diuinarum atque humanarum, et sapientiam et scientiam dici posse non tacui. Verum secundum hanc distinctionem qua dixit apostolus: Alii datur sermo sapientiae, alii sermo scientiae, ista definitio diuidenda est ut rerum diuinarum scientia sapientia proprie nuncupetur, humanarum autem proprie scientiae nomen obtineat, de qua uolumine tertio decimo disputaui, non utique quidquid sciri ab homine potest in rebus humanis ubi plurimum superuacaneae uanitatis et noxiae curiositatis est huic scientiae tribuens, sed illud tantummodo quo fides saluberrima quae ad ueram beatitudinem ducit gignitur, nutritur, defenditur, roboratur. Qua scientia non pollent fideles plurimi, quamuis polleant ipsa fide plurimum. Aliud est enim scire tantummodo quid homo credere debeat propter adipiscendam uitam beatam quae non nisi aeterna est, aliud autem scire quemadmodum hoc ipsum et piis opituletur et contra impios defendatur, quam proprio appellare uocabulo scientiam uidetur apostolus. De qua prius cum loquerer ipsam praecipue fidem commendare curaui, a temporalibus aeterna breuiter ante distinguens atque ibi de temporalibus disserens, aeterna uero in hunc librum differens, etiam de rebus aeternis fidem temporalem quidem et temporaliter in credentium cordibus habitare, necessariam tamen propter adipiscenda ipsa aeterna esse monstraui. Fidem quoque de temporalibus rebus quas pro nobis aeternus fecit et passus est in homine quem temporaliter gessit atque ad aeterna peruexit ad eandem aeternorum adeptionem prodesse disserui, uirtutesque ipsas quibus in hac temporali mortalitate prudenter, fortiter, temperanter et iuste uiuitur, nisi ad eandem licet temporalem fidem quae tamen ad aeterna perducit referantur, ueras non esse uirtutes.</p>
+            <p xml:id="adt-l14-d1e1535">
+              Dis<lb ed="#G"/>putantes 
+              autem de sapientia definierunt 
+              <lb ed="#G"/>eam dicentes Sapientia est rerum 
+              <lb ed="#G"/>humanarum diuinarumque scientia. 
+              <lb ed="#G"/>Vnde ego quoque in libro superiore utra<lb ed="#G"/>rumque 
+              rerum cognitionem, id est di<lb ed="#G"/>uinarum 
+              atque humanarum, et sapien<lb ed="#G"/>tiam 
+              et scientiam dici posse non tacui. 
+              <lb ed="#G"/>Verum secundum hanc distinctionem qua 
+              <lb ed="#G"/>dixit apostolus: Alii datur sermo sa<lb ed="#G"/>pientiae, 
+              alii sermo scientiae, ista de<lb ed="#G"/>finitio 
+              diuidenda est ut rerum diuina<lb ed="#G"/>rum 
+              scientia sapientia proprie nun<lb ed="#G"/>cupetur, 
+              humanarum autem proprie 
+              <lb ed="#G"/>scientiae nomen obtineat, de qua uo<lb ed="#G"/>lumine 
+              tertio decimo disputaui. 
+              <lb ed="#G"/>Non utique quidquid sciri ab homine po<lb ed="#G"/>test 
+              in rebus humanis ubi plurimum super<lb ed="#G"/>uacaneae 
+              uanitatis et noxiae curiosita<lb ed="#G"/>tis 
+              est huic scientiae tribuens, sed 
+              <lb ed="#G"/>illud tantummodo quo fides saluber<cb ed="#G" n="b"/><lb ed="#G"/>rima 
+              quae ad ueram beatitudinem ducit 
+              <lb ed="#G"/>gignitur, nutritur, defenditur, ro<lb ed="#G"/>boratur. 
+              Qua scientia non <seg type="correction">polle<add place="above-line">n</add>t</seg> fi<lb ed="#G"/>deles 
+              plurimi, quamuis polleant ipsa 
+              <lb ed="#G"/>fide plurimum. Aliud est enim scire 
+              <lb ed="#G"/>tantummodo quid homo credere de<lb ed="#G"/>beat 
+              propter adipiscendam uitam beatam 
+              <lb ed="#G"/>quae <add place="above-line">non</add> nisi aeterna est, aliud autem scire 
+              <lb ed="#G"/>quemadmodum hoc ipsum et piis opi<lb ed="#G"/>tuletur 
+              et contra impios defendatur, 
+              <lb ed="#G"/>quam proprio <seg type="correction">a<add place="above-line">p</add>pellare</seg> uocabulo scientiam
+              <lb ed="#G"/>uidetur apostolus. De qua prius cum 
+              <lb ed="#G"/>loquerer ipsam praecipue fidem com<lb ed="#G"/>mendare 
+              curaui, a temporalibus aeterna 
+              <lb ed="#G"/>breuiter ante distinguens atque ibi de 
+              <lb ed="#G"/>temporalibus disserens, aeterna uero in 
+              <lb ed="#G"/>hunc librum differens, etiam de rebus 
+              <lb ed="#G"/>aeternis <del rend="strikethrough">fidem tempo</del> fidem tempora<lb ed="#G"/>lem 
+              quidem et temporaliter in creden<lb ed="#G"/>tium 
+              cordibus habitare, Necessariam tamen propter adipiscenda ipsa ae<lb ed="#G"/>terna 
+              esse monstraui. Fidem quoque 
+              <lb ed="#G"/>de temporalibus rebus quas pro nobis aeternus 
+              <lb ed="#G"/>fecit et passus est in homine quem temporali<lb ed="#G"/>ter 
+              gessit atque ad aeterna peruexit 
+              <lb ed="#G"/>Ad eandem aeternorum adeptionem pro<lb ed="#G"/>desse 
+              disserui, uirtutesque ipsas quibus 
+              <lb ed="#G"/>in hac temporali mortalitate prudenter, 
+              <lb ed="#G"/>fortiter, temperanter et iuste uiuitur, 
+              <lb ed="#G"/>nisi ad eandem licet temporalem fidem 
+              <lb ed="#G"/>quae tamen ad aeterna perducit referan<lb ed="#G"/>tur, 
+              ueras non esse uirtutes
+            </p>
           </div>
         </div>
         <div xml:id="adt-l14-Dd1e138">

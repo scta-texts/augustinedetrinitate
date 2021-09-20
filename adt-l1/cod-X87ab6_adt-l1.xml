@@ -160,7 +160,8 @@
               <lb ed="#G"/>oblectamenta formare quibus in<lb ed="#G"/>firmorum 
               ad quaerenda superiora 
               <lb ed="#G"/>et inferiora deserenda pro suo mo<lb ed="#G"/>dulo 
-              tamquam passibus moueretur aspectus. Quae uero propri<del>a</del>e de 
+              tamquam passibus moueretur 
+              <lb ed="#G"/>aspectus. Quae uero propri<del>a</del>e de 
               <lb ed="#G"/>deo dicuntur, quae in nulla creatura 
               <lb ed="#G"/>reperiuntur, raro ponit scriptu<lb ed="#G"/>ra 
               diuina, sicut illud quod dictum 
@@ -172,53 +173,327 @@
               <add place="above-line">Et</add> illud quod ait apostolus: <quote xml:id="adt-l1-QdcdXnX" source="http://scta.info/resource/Itim6_16@1-4">qui 
               <lb ed="#G"/>solus habet immortalitatem</quote>. cum 
               <lb ed="#G"/>et anima modo quodam inmorta<lb ed="#G"/>lis 
-              esse dicatur et sit, Non diceret, solus habet, nisi quia uera immor<lb ed="#G"/>talitas 
+              esse dicatur et sit, Non diceret, 
+              <lb ed="#G"/>solus habet, nisi quia uera immor<lb ed="#G"/>talitas 
               incommutabilitas ita est quam 
               <lb ed="#G"/>nulla potest habere creatura quoniam 
               <pb ed="#G" n="14"/>
               <cb ed="#G" n="a"/>
-              <!-- left off -->
-              <lb ed="#G"/>solius creatoris est. Hoc et Iacobus dicit: Omne datum optimum et omne donum perfectum desursus est descendens a patre luminum, apud quem non est commutatio nec momenti obumbratio. Hoc et Dauid: Mutabis ea et mutabuntur; tu autem idem ipse es.</p>
+              <lb ed="#G"/>solius creatoris est. Hoc et Iacobus 
+              <lb ed="#G"/>dicit: Omne datum optimum et 
+              <lb ed="#G"/>omne donum perfectum desursus est 
+              <lb ed="#G"/>descendens a patre luminum, apud 
+              <lb ed="#G"/>quem non est commutatio nec ui<lb ed="#G"/>cissitudinis 
+              odumbratio. Hoc et da<lb ed="#G"/>uid: 
+              mutabis ea et mutabuntur: tu 
+              <lb ed="#G"/>autem idem ipse es.
+            </p>
           </div>
           <div xml:id="adt-l1-Dd1e128">
             <head xml:id="adt-l1-Hd1e130">3</head>
-            <p xml:id="adt-l1-d1e17">Proinde substantiam dei sine ulla sui commutatione mutabilia facientem, et sine ullo suo temporali motu temporalia creantem, intueri et plene nosse difficile est. Et ideo est necessaria purgatio mentis nostrae qua illud ineffabile ineffabiliter uideri possit; qua nondum praediti fide nutrimur, et per quaedam tolerabiliora ut ad illud capiendum apti et habiles efficiamur itinera ducimur. Vnde apostolus in Christo quidem dicit esse omnes thesauros sapientiae et scientiae absconditos. Eum tamen, quamuis iam gratia eius renatis sed adhuc carnalibus et animalibus, tamquam paruulis in Christo, non ex diuina uirtute in qua aequalis est patri sed ex humana infirmitate et qua crucifixus est, commendauit. Ait namque: neque enim iudicaui me scire aliquid in uobis nisi Iesum Christum et hunc crucifixum. Deinde secutus ait: Et ego in infirmitate et in timore et tremore multo fui apud uos. Et paulo post eis dicit: Et ego, fratres, non potui loqui uobis quasi spiritalibus sed quasi carnalibus. Quasi paruulis in Christo lac uobis potum dedi, non escam; nondum enim poteratis, sed nec adhuc potestis.</p>
-            
-            <p xml:id="adt-l1-d1e21">Hoc cum dicitur quibusdam irascuntur et sibi contumeliose dici putant, et plerumque malunt credere eos potius a quibus haec audiunt non habere quod dicant quam se capere non posse quod dixerint. Et aliquando afferimus eis rationem, non quam petunt cum de deo quaerunt quia nec ipsi eam ualent sumere nec nos fortasse uel apprehendere uel proferre, sed qua demonstretur eis quam sint inhabiles minimeque idonei percipiendo quod exigunt. Sed quia non audiunt quod uolunt, aut callide nos agere putant ut nostram occultemus imperitiam aut malitiose quod eis inuideamus peritiam, atque ita indignantes perturbatique discedunt.</p>
+            <p xml:id="adt-l1-d1e17">Proinde substan<lb ed="#G"/>tiam 
+              dei sine ulla sui commutatione 
+              <lb ed="#G"/>mutabilia facientem, et sine ullo suo 
+              <lb ed="#G"/>temporali motu temporalia creantem, 
+              <lb ed="#G"/>intueri et plene nosse difficile est. 
+              <lb ed="#G"/>Et ideo est necessaria purgatio men<lb ed="#G"/>tis 
+              nostrae qua illud ineffabile ineffa<lb ed="#G"/>biliter 
+              uideri possit; qua nondum 
+              <lb ed="#G"/>praediti fide nutrimur, et per quae<lb ed="#G"/>dam 
+              tolerabiliora ut ad illud ca<lb ed="#G"/>piendum 
+              apti et habiles efficiamur 
+              <lb ed="#G"/>itinera ducimur. Vnde apostolus 
+              <lb ed="#G"/>in christo quidem dicit esse omnes thes<lb ed="#G"/>auros 
+              sapientiae et scientiae abscon<lb ed="#G"/>ditos. 
+              Cum tamen quamuis iam 
+              <lb ed="#G"/>gratia eius renatis sed adhuc carna<lb ed="#G"/>libus 
+              et animalibus tamquam paruu<lb ed="#G"/>lis 
+              in christo, non ex diuina uirtute in 
+              <lb ed="#G"/>qua aequalis est patri sed ex humana 
+              <lb ed="#G"/>infirmitate et qua crucifixus est, 
+              <lb ed="#G"/>commendauit. Ait namque: neque enim 
+              <lb ed="#G"/>iudicaui me scire aliquid in uobis 
+              <lb ed="#G"/>nisi <seg type="correction">christ<subst><del>o</del><add>um</add></subst></seg> et hunc crucifixum. 
+              <lb ed="#G"/>Deinde secutus ait: Et ego in infir<lb ed="#G"/>mitate 
+              et in timore et tremore multo 
+              <cb ed="#G" n="b"/>
+              <lb ed="#G"/>fui apud uos. Et paulo post eis dicit: 
+              <lb ed="#G"/>et ego, fratres, non potui uobis loqui <add place="above-line">quasi</add> spi<lb ed="#G"/>ritalibus 
+              sed quasi carnalibus. qua<lb ed="#G"/>si 
+              paruulis in christo lac uobis potum 
+              <lb ed="#G"/>dedi, non escam; nondum enim po<lb ed="#G"/>teratis, 
+              sed nec adhuc potes<lb ed="#G"/>tis.
+            </p>
+            <p xml:id="adt-l1-d1e21">
+              Hoc cum dicitur quibusdam iras<lb ed="#G"/>cuntur 
+              et sibi contumeliose dici pu<lb ed="#G"/>tant, 
+              et plerumque malunt crede<lb ed="#G"/>re 
+              eos potius a quibus haec audiunt 
+              <lb ed="#G"/>non habere quod dicant quam se 
+              <lb ed="#G"/>capere non posse quod dixerint. 
+              <lb ed="#G"/>Et aliquando afferimus eis ratio<lb ed="#G"/>nem, 
+              <sic>non</sic> quam petunt cum de deo quae<lb ed="#G"/>runt 
+              quia nec ipsi eam ualent su<lb ed="#G"/>mere 
+              nec fortasse nos uel adpre<lb ed="#G"/>hendere 
+              uel proferre, sed qua de<lb ed="#G"/>monstretur 
+              eis quam sint inhabiles 
+              <lb ed="#G"/>minimeque idonei percipiendo quod 
+              <lb ed="#G"/>exigunt. Sed quia non audiunt 
+              <lb ed="#G"/>quod uolunt, aut callide nos agere 
+              <lb ed="#G"/>putant ut nostram occultemus imperi<lb ed="#G"/>tiam 
+              Aut malitiose quod eis in<lb ed="#G"/>uideamus peritiam, atque ita indig<lb ed="#G"/>nantes 
+              perturbatique discedunt.
+            </p>
           </div>
         </div>
         <div xml:id="adt-l1-Dd1e124">
           <head xml:id="adt-l1-Hd1e126">2</head>
           <div xml:id="adt-l1-Dd1e146">
             <head xml:id="adt-l1-Hd1e148">4</head>
-            <p xml:id="adt-l1-d1e24">Quapropter adiuuante domino deo nostro suscipiemus et eam ipsam quam flagitant, quantum possumus, reddere rationem, quod trinitas sit unus et solus et uerus deus, et quam recte pater et filius et spiritus sanctus unius eiusdemque substantiae uel essentiae dicatur, credatur, intellegatur; ut non quasi nostris excusationibus inludantur sed reipsa experiantur et esse illud summum bonum quod purgatissimis mentibus cernitur, et a se propterea cerni comprehendique non posse quia mentis humanae acies inualida in tam excellenti luce non figitur nisi per iustitiam fidei nutrita uegetetur. Sed primum secundum auctoritatem scripturarum sanctarum utrum ita se fides habeat demonstrandum est. Deinde si uoluerit et adiuuerit deus, istis garrulis ratiocinatoribus, elatioribus quam capacioribus atque ideo morbo periculosiore laborantibus, sic fortasse seruiemus ut inueniant aliquid unde dubitare non possint, et ob hoc in eo quod inuenire nequiuerint, de suis mentibus potius quam de ipsa ueritate uel de nostris disputationibus conquerantur. Atque ita si quid eis erga deum uel amoris est uel timoris, ad initium fidei et ordinem redeant, iam sentientes quam salubriter in sancta ecclesia medicina fidelium constituta sit ut ad perceptionem incommutabilis ueritatis inbecillam mentem obseruata pietas sanet ne in opinionem noxiae falsitatis temeritas inordinata praecipitet. Nec pigebit autem me, sicubi haesito, quaerere; nec pudebit, sicubi erro, discere.</p>
+            <p xml:id="adt-l1-d1e24">
+              <lb ed="#G"/>Quapropter adiuuante domino deo 
+              <lb ed="#G"/>nostro suscipiemus et eam ip<lb ed="#G"/>sam 
+              quam flagitant, quantum possu<lb ed="#G"/>mus, 
+              reddere rationem, quod trini<lb ed="#G"/>tas 
+              sit unus et solus et uerus deus, Et quam 
+              <lb ed="#G"/>recte pater et filius et spiritus sanctus unius 
+              <lb ed="#G"/>eiusdemque substantiae uel essen<lb ed="#G"/>tiae 
+              dicatur, credatur, intellegatur; 
+              <lb ed="#G"/>ut non quasi nostris excusationibus inlu<lb ed="#G"/>dantur 
+              sed reipsa experiantur et 
+              <lb ed="#G"/>esse illud summum bonum quod purga<lb ed="#G"/>tissimis 
+              mentibus cernitur, Et a se 
+              <lb ed="#G"/>propterea cerni comprehendique non 
+              <lb ed="#G"/>posse quia mentis humanae acies in<lb ed="#G"/>ualida 
+              in tam excellenti luce non fi<lb ed="#G"/>gitur 
+              nisi per iustitiam fidei nutrita ue<lb ed="#G"/>getetur. 
+              Sed primum secundum auctoritatem 
+              <lb ed="#G"/>scripturarum sanctarum utrum ita se fi<lb ed="#G"/>des 
+              habeat demonstrandum est. Dein<lb ed="#G"/>de 
+              si uoluerit et adiuuerit deus, istis gar<lb ed="#G"/>rulis 
+              ratiocinatoribus, elatioribus quam 
+              <lb ed="#G"/>capacioribus atque ideo morbo pericu<lb ed="#G"/>losiore 
+              laborantibus, sic fortasse serui<lb ed="#G"/>emus 
+              ut inueniant aliquid unde du<lb ed="#G"/>bitare 
+              non possint, Et ob hoc in eo 
+              <lb ed="#G"/>quod inuenire nequiuerint, de suis 
+              <lb ed="#G"/>mentibus potius quam de ipsa ueritate 
+              <lb ed="#G"/>uel de nostris disputationibus conqueran<lb ed="#G"/>tur. 
+              Atque ita si quid eis erga deum uel amo<lb ed="#G"/>ris 
+              est uel timoris, ad initium fidei et ordi<lb ed="#G"/>nem 
+              redeant, iam sentientes quam salu<lb ed="#G"/>briter 
+              in sancta ecclesia medicina fidelium 
+              <lb ed="#G"/>constituta sit ut ad perceptionem incom<lb ed="#G"/>mutabilis 
+              ueritatis inbecillam men<lb ed="#G"/>tem 
+              obseruata pietas sanet ne in opi<lb ed="#G"/>nionem 
+              noxiae falsitatis temeritas in<lb ed="#G"/>ordinata 
+              praecipitet. Nec pigebit 
+              <lb ed="#G"/>autem me, sicubi haesito, quaerere; nec 
+              <lb ed="#G"/>pudebit, sicubi erro, discere.
+            </p>
           </div>
         </div>
         <div xml:id="adt-l1-Dd1e133">
           <head xml:id="adt-l1-Hd1e135">3</head>
           <div xml:id="adt-l1-Dd1e161">
             <head xml:id="adt-l1-Hd1e163">5</head>
-            <p xml:id="adt-l1-d1e27">Proinde quisquis haec legit ubi pariter certus est, pergat mecum; ubi pariter haesitat, quaerat mecum; ubi errorem suum cognoscit, redeat ad me; ubi meum, reuocet me. Ita ingrediamur simul caritatis uiam tendentes ad eum de quo dictum est: Quaerite faciem eius semper. Et hoc placitum pium atque tutum coram domino deo nostro cum omnibus inierim qui ea quae scribo legunt et in omnibus scriptis meis maximeque in his ubi quaeritur unitas trinitatis, patris et filii et spiritus sancti, quia neque periculosius alicubi erratur, nec laboriosius aliquid quaeritur, nec fructuosius aliquid inuenitur. Quisquis ergo cum legit dicit: 'Non bene hoc dictum est quoniam non intellego,' locutionem meam reprehendit, non fidem; et forte uere potuit dici planius. Verumtamen nullus hominum ita locutus est ut in omnibus ab omnibus intellegeretur. Videat ergo cui hoc in sermone meo displicet utrum alios in talibus rebus quaestionibusque uersatos cum intellegat, me non intellegit; et si ita est ponat librum meum uel etiam, si hoc uidetur, abiciat, et eis potius quos intellegit operam et tempus impendat. Non tamen propterea putet me tacere debuisse quia non tam expedite ac dilucide quam illi quos intellegit eloqui potui. Neque enim omnia quae ab omnibus conscribuntur in omnium manus ueniunt, et fieri potest ut nonnulli qui etiam haec nostra intellegere ualent illos planiores non inueniant libros et in istos saltem incidant. Ideoque utile est plures a pluribus fieri diuerso stilo, non diuersa fide, etiam de quaestionibus eisdem ut ad plurimos res ipsa perueniat, ad alios sic, ad alios autem sic. At si ille qui se ista non intellexisse conqueritur nulla umquam de talibus rebus diligenter et acute disputate intellegere potui, secum agat uotis et studiis ut proficiat, non mecum querelis et conuiciis ut taceam.</p>
-            
-            <p xml:id="adt-l1-d1e30">Qui uero haec legens dicit: 'Intellego quidem quid dictum sit, sed non uere dictum est,' asserat, ut placet, sententiam suam et redarguat meam si potest. Quod si cum caritate et ueritate fecerit, mihique etiam (si in hac uita maneo) cognoscendum facere curauerit, uberrimum fructum laboris huius mei cepero. Quod si mihi non potuerit, quibus id potuerit me uolente ac libente praestiterit. Ego tamen in lege domini meditabor, si non die ac nocte, saltem quibus temporum particulis possum, et meditationes meas ne obliuione fugiant stilo alligo sperans de misericordia dei quod in omnibus ueris quae certa mihi sunt perseuerantem me faciet; si quid autem aliter sapio, id quoque mihi ipse reuelabit siue per occultas inspirationes atque admonitiones siue per manifesta eloquia sua siue per fraternas sermocinationes. Hoc oro et hoc depositum desideriumque meum penes ipsum habeo, qui mihi satis idoneus est et custodire quae dedit et reddere quae promisit.</p>
+            <p xml:id="adt-l1-d1e27">
+              Proinde quisquis haec legit ubi 
+              <lb ed="#G"/>pariter <!-- possible homoeteleuton here --> haesitat, quaerat mecum; ubi 
+              <lb ed="#G"/>errorem suum cognoscit, redeat ad 
+              <lb ed="#G"/>me; ubi meum, reuocet me. Ita ingre<lb ed="#G"/>diamur 
+              simul karitatis uiam tenden<lb ed="#G"/>tes 
+              ad eum de quo dictum est: Quaerite 
+              <lb ed="#G"/>faciem eius semper. Et hoc placitum 
+              <lb ed="#G"/>pium atque tutum coram domino deo nostro cum 
+              <lb ed="#G"/>omnibus interim qui ea quae scribo 
+              <lb ed="#G"/>legunt et in omnibus scriptis meis maxi<lb ed="#G"/>meque 
+              in his ubi quaeritur unitas trini<lb ed="#G"/>tatis, 
+              patris et filii et spiritus sancti, quia neque 
+              <lb ed="#G"/>periculosius alicubi erratur, nec labo<lb ed="#G"/>riosius 
+              aliquid quaeritur, nec fructu<lb ed="#G"/>osius 
+              aliquid inuenitur. Quisquis 
+              <lb ed="#G"/>ergo cum legit dicit non bene hoc 
+              <lb ed="#G"/>dictum est <unclear>quoniam</unclear> non intellego lo<lb ed="#G"/>cutionem 
+              meam reprehendit, non fidem; 
+              <lb ed="#G"/>Et forte uere potuit dici planius. verum<lb ed="#G"/>tamen 
+              nullus hominum ita locutus est 
+              <lb ed="#G"/>ut in omnibus ab omnibus intellegeretur. 
+              <lb ed="#G"/>Videat ergo cui hoc in sermone meo dis<lb ed="#G"/>plicet 
+              utrum alios in talibus rebus 
+              <lb ed="#G"/>quaestionibusque uersatos cum intelle<lb ed="#G"/>gat, 
+              me non intellegit; Et si ita est 
+              <lb ed="#G"/>ponat librum meum uel etiam, si hoc 
+              <lb ed="#G"/>uidetur, abiciat, et eis potius quos in<lb ed="#G"/>tellegit 
+              operam et tempus impendat 
+              <lb ed="#G"/>Non tamen propterea putet me tacere 
+              <lb ed="#G"/>debuisse quia non tam expedi<lb ed="#G"/>te 
+              ac dilucide quam illi quos intel<lb ed="#G"/>legit 
+              eloqui potui. Neque enim omnia
+              <pb ed="#G" n="16"/>
+              <cb ed="#G" n="a"/>
+              <lb ed="#G"/>quae ab omnibus conscribuntur in 
+              <lb ed="#G"/>omnium manus ueniunt, et fieri 
+              <lb ed="#G"/>potest ut <seg type="correction"><add place="above-line">non</add>nulli</seg> <seg type="correction">q<add place="above-line">ui</add></seg> etiam haec nostra intel<lb ed="#G"/>legere 
+              ualent illos planiores non 
+              <lb ed="#G"/>inueniant libros et in istos saltim in<lb ed="#G"/>cidant. 
+              Ideoque utile est plures a pluri<lb ed="#G"/>bus 
+              fieri diuerso stilo non diuersa 
+              <lb ed="#G"/>fide Etiam de quaestionibus eisdem 
+              <lb ed="#G"/>ut ad plurimos res ipsa perueniat, ad 
+              <lb ed="#G"/>alios sic, ad alios autem sic. At si ille 
+              <lb ed="#G"/>qui se ista non intellexisse conqueri<lb ed="#G"/>tur 
+              nulla umquam de talibus rebus di<lb ed="#G"/>ligenter 
+              et acute disputate intelle<lb ed="#G"/>gere 
+              potui, secum agat uotis et stu<lb ed="#G"/>diis 
+              ut proficiat, non mecum quere<lb ed="#G"/>lis 
+              et conuiciis ut taceam.
+            </p>
+            <p xml:id="adt-l1-d1e30">
+              Qui uero haec 
+              <lb ed="#G"/>legens dicit: intellego quidem quid 
+              <lb ed="#G"/>dictum sit, sed non uere dictum est, 
+              <lb ed="#G"/>asserat, ut placet, sententiam suam 
+              <lb ed="#G"/>et redarguat meam si potest. Quod 
+              <lb ed="#G"/>si cum caritate et ueritate fecerit, 
+              <lb ed="#G"/>mihique etiam si in hac uita maneo cog<lb ed="#G"/>noscendum 
+              facere curauerit, uber<lb ed="#G"/>rimum 
+              fructum laboris huius mei cepe<lb ed="#G"/>ro. 
+              quod si mihi non potuerit quibus 
+              <lb ed="#G"/>id potuerit me uolente ac libente 
+              <lb ed="#G"/>praestiterit ego tamen in lege domini 
+              <lb ed="#G"/>meditabor, si non die ac nocte, sal<lb ed="#G"/>tim 
+              quibus temporum particulis pos<lb ed="#G"/>sum, 
+              et meditationes meas ne ob<lb ed="#G"/>liuione 
+              fugiant stilo alligo spe<lb ed="#G"/>rans 
+              de misericordia dei quod in 
+              <cb ed="#G" n="b"/>
+              <lb ed="#G"/>omnibus ueris quae certa mihi sunt per<lb ed="#G"/>seuerantem 
+              me faciet; Si quid autem 
+              <lb ed="#G"/>aliter sapio, id quoque ipse mihi reue<lb ed="#G"/>labit 
+              siue per occultas <seg type="correction"><add place="above-line">in</add>spirationes</seg> atque 
+              <lb ed="#G"/>admonitiones siue per manifesta eloqui<lb ed="#G"/>a 
+              sua siue per fraternas sermocinationis<!-- possibily corrected?? --> 
+              <lb ed="#G"/>Hoc oro et hoc depositum desideriumque 
+              <lb ed="#G"/>meum penes ipsum habeo, qui mihi 
+              <lb ed="#G"/>satis idoneus est et custodire quae dedit 
+              <lb ed="#G"/>et reddere quae promisit.
+            </p>
           </div>
           <div xml:id="adt-l1-Dd1e17X">
             <head xml:id="adt-l1-Hd1e17X">6</head>
-            <p xml:id="adt-l1-d1e33">Arbitror sane nonnullos tardiores in quibusdam locis librorum meorum opinaturos me sensisse quod non sensi aut non sensisse quod sensi. Quorum errorem mihi tribui non debere quis nesciat, si uelut me sequentes neque apprehendentes deuiauerint in aliquam falsitatem dum per quaedam densa et opaca cogor uiam carpere, quandoquidem nec ipsis sanctis diuinorum librorum auctoritatibus ullo modo quisquam recte tribuerit tam multos et uarios errores haereticorum, cum omnes ex eisdem scripturis falsas atque fallaces opiniones suas conentur defendere? Admonet me plane ac mihi iubet suauissimo imperio lex Christi, hoc est caritas, ut cum aliquid falsi in libris meis me sensisse homines putant quod ego non sensi atque idipsum falsum alteri displicet, alteri placet, malim me reprehendi a reprehensore falsitatis quam ab eius laudatore laudari. Ab illo enim, quamuis ego non recte qui hoc non senserim, error tamen ipse recte uituperatur; ab hoc autem nec ego recte laudor a quo existimor id sensisse quod uituperat ueritas, nec ipsa sententia quam uituperat ueritas. Ergo in nomine domini susceptum opus aggrediamur.</p>
+            <p xml:id="adt-l1-d1e33">
+              Arbitror 
+              <lb ed="#G"/>sane nonnullos tardiores in quibus<lb ed="#G"/>dam 
+              locis librorum meorum opinatu<lb ed="#G"/>ros 
+              me sensisse quod non sensi aut 
+              <lb ed="#G"/>non sensisse quod sensi. <add place="above-line">Quorum</add> erro<lb ed="#G"/>rem 
+              mihi tribui non debere quis nes<lb ed="#G"/>ciat, 
+              si uelut me sequentes neque adpre<lb ed="#G"/>hendentes 
+              deuiauerint in aliquam 
+              <lb ed="#G"/>falsitatem 
+              dum per quaedam densa 
+              <lb ed="#G"/>et opaca cogor uiam carpere, Quan<lb ed="#G"/>doquidem 
+              nec ipsis sanctis diuinorum 
+              <lb ed="#G"/>librorum auctoritatibus ullo modo 
+              <lb ed="#G"/>quisquam recte tribuerit tam mul<lb ed="#G"/>tos 
+              et uarios errores haereticorum, 
+              <lb ed="#G"/>cum omnes ex eisdem scripturis falsas 
+              <lb ed="#G"/>atque fallaces opiniones suas conentur 
+              <lb ed="#G"/>defendere? Ammonet me plane 
+              <lb ed="#G"/>ac mihi iubet suauissimo imperio lex 
+              <lb ed="#G"/>christi, hoc est karitas, ut cum aliquid fal<lb ed="#G"/>si 
+              in libris meis me sensisse homines 
+              <lb ed="#G"/>putant quod ego non sensi atque idip<lb ed="#G"/>sum 
+              falsum alteri displicet, alteri placet, malim me re<lb ed="#G"/>prehendi 
+              a reprehensore falsitatis quam
+              <pb ed="#G" n="17"/>
+              <cb ed="#G" n="a"/>
+              <lb ed="#G"/>ab eius laudatore laudari. Ab illo 
+              <lb ed="#G"/>enim, quamuis ego non recte qui hoc 
+              <lb ed="#G"/>non senserim, error tamen ipse rec<lb ed="#G"/>te 
+              uituperatur; ab hoc autem nec 
+              <lb ed="#G"/>ego recte laudor a quo existimor id 
+              <lb ed="#G"/>sensisse quod uituperat ueritas, nec 
+              <lb ed="#G"/>ipsa sententia quam uituperat ue<lb ed="#G"/>ritas. 
+              Ergo in nomine domini suscep<lb ed="#G"/>tum 
+              opus aggrediamur.
+            </p>
           </div>
         </div>
         <div xml:id="adt-l1-Dd1e148">
           <head xml:id="adt-l1-Hd1e150">4</head>
           <div xml:id="adt-l1-Dd1e188">
             <head xml:id="adt-l1-Hd1e190">7</head>
-            <p xml:id="adt-l1-d1e36">Omnes quos legere potui qui ante me scripserunt de trinitate quae deus est, diuinorum librorum ueterum et nouorum catholici tractatores, hoc intenderunt secundum scripturas docere, quod pater et filius et spiritus sanctus unius substantiae inseparabili aequalitate diuinam insinuent unitatem, ideoque non sint tres dii sed unus deus — quamuis pater filium genuerit, et ideo filius non sit qui pater est; filiusque a patre sit genitus, et ideo pater non sit qui filius est; spiritusque sanctus nec pater sit nec filius, sed tantum patris et filii spiritus, patri et filio etiam ipse coaequalis et ad trinitatis pertinens unitatem. Non tamen eandem trinitatem natam de uirgine Maria et sub Pontio Pilato crucifixam et sepultam tertio die resurrexisse et in caelum ascendisse, sed tantummodo filium. Nec eandem trinitatem descendisse in specie columbae super Iesum baptizatum aut die pentecostes post ascensionem domini sonitu facto de caelo quasi ferretur flatus uehemens et linguis diuisis uelut ignis, sed tantummodo spiritum sanctum. Nec eandem trinitatem dixisse de caelo: Tu es filius meus, siue cum baptizatus est a Iohanne siue in monte quando cum illo erant tres discipuli, aut quando sonuit uox dicens: Et clarificaui et iterum clarificabo, sed tantummodo patris uocem fuisse ad filium factam — quamuis pater et filius et spiritus sanctus sicut inseparabiles sunt, ita inseparabiliter operentur. Haec et mea fides est quando haec est catholica fides.</p>
+            <!-- left off p. 17 --> 
+            <p xml:id="adt-l1-d1e36">
+              <lb ed="#G"/>Omnes quos legere potui qui 
+              <lb ed="#G"/>ante me scripserunt de trinitate 
+              <lb ed="#G"/>quae deus est, diuinorum librorum 
+              <lb ed="#G"/>ueterum et nouorum catholici trac<lb ed="#G"/>tatores, 
+              hoc intenderunt secundum scrip<lb ed="#G"/>turas 
+              docere, quod pater et filius 
+              <lb ed="#G"/>et spiritus sanctus unius substantiae insepa<lb ed="#G"/>rabili 
+              aequalitate diuinam insinu<lb ed="#G"/>ent 
+              unitatem, ideoque non sint tres 
+              <lb ed="#G"/>dii sed unus deus — quamuis pater fi<lb ed="#G"/>lium 
+              genuerit, et ideo filius non sit 
+              <lb ed="#G"/>qui pater est; filiusque a patre sit ge<lb ed="#G"/>nitus, 
+              et ideo pater non sit qui fili<lb ed="#G"/>us 
+              est; spiritusque sanctus nec pater sit nec filius, sed 
+              <lb ed="#G"/>tantum patris et filii spiritus, patri et fi<lb ed="#G"/>lio 
+              etiam ipse coaequalis et ad tri<lb ed="#G"/>nitatis 
+              pertinens unitatem. Non ta<lb ed="#G"/>men 
+              eandem trinitatem natam de 
+              <lb ed="#G"/>uirgine maria et sub pontio pila<lb ed="#G"/>to 
+              crucifixam et sepultam tertia 
+              <lb ed="#G"/>die resurrexisse et in caelum ascen<lb ed="#G"/>disse, 
+              sed tantummodo filium. 
+              <lb ed="#G"/>Nec eandem trinitatem descen<cb ed="#G" n="b"/><lb ed="#G"/>disse 
+              <lb ed="#G"/>in specie columbae super ihesum 
+              <lb ed="#G"/>baptizatum aut die pentecostes 
+              <lb ed="#G"/>post ascensionem domini sonitu facto de cae<lb ed="#G"/>lo 
+              quasi ferretur flatus uehemens 
+              <lb ed="#G"/>et linguis diuisis uelut ignis, 
+              <lb ed="#G"/>sed tantummodo spiritum sanctum. Nec 
+              <lb ed="#G"/>eandem trinitatem dixisse de cae<lb ed="#G"/>lo: 
+              tu es filius meus, siue cum baptiza<lb ed="#G"/>tus 
+              est a iohanne siue in monte quan<lb ed="#G"/>do 
+              cum illo erant tres discipuli, 
+              <lb ed="#G"/>aut quando sonuit uox dicens: Et 
+              <lb ed="#G"/>clarificaui et iterum clarificabo, 
+              <lb ed="#G"/>sed tantummodo patris uocem fuis<lb ed="#G"/>se 
+              ad filium factam — quamuis pa<lb ed="#G"/>ter 
+              et filius et spiritus sanctus sicut insepa<lb ed="#G"/>rabiles 
+              sunt, ita inseparabiliter 
+              <lb ed="#G"/>operentur. 
+              <lb ed="#G"/>Haec et mea fides est quando haec est 
+              <lb ed="#G"/>catholica fides.
+            </p>
           </div>
         </div>
         <div xml:id="adt-l1-Dd1e16X">
           <head xml:id="adt-l1-Hd1e16X">5</head>
           <div xml:id="adt-l1-Dd1e204">
             <head xml:id="adt-l1-Hd1e206">8</head>
-            <p xml:id="adt-l1-d1e43">Sed in ea nonnulli perturbantur cum audiunt deum patrem et deum filium et deum spiritum sanctum, et tamen hanc trinitatem non tres deos sed unum deum; et quemadmodum id intellegant quaerunt, praesertim cum dicitur inseparabiliter operari trinitatem in omni re quam deus operatur, et tamen quandam uocem patris sonuisse, quae uox filii non sit; in carne autem natum et passum et resurrexisse et ascendisse non nisi filium; in columbae autem specie uenisse non nisi spiritum sanctum. Intellegere uolunt quomodo et illam uocem quae non nisi patris fuit trinitas fecerit, et illam carnem in qua non nisi filius de uirgine natus est eadem trinitas creauerit, et illam columbae speciem in qua non nisi spiritus sanctus apparuit illa ipsa trinitas operata sit. Alioquin non inseparabiliter trinitas operatur, sed alia pater facit, alia filius, alia spiritus sanctus; aut si quaedam simul faciunt, quaedam sine inuicem, iam non inseparabilis trinitas. Mouet etiam quomodo spiritus sanctus in trinitate sit, quem nec pater nec filius nec ambo genuerint, cum sit spiritus patris et filii. Quia ergo quaerunt ista homines, et taedio nobis sunt ut si quid hinc ex dono dei sapit infirmitas nostra, edisseramus eis ut possumus, neque cum inuidia tabescente iter habeamus.</p>
+            <p xml:id="adt-l1-d1e43">
+              Sed in ea nonnulli 
+              <lb ed="#G"/>perturbantur cum audiunt deum patrem 
+              <lb ed="#G"/>et deum filium et deum spiritum sanctum, et ta<lb ed="#G"/>men 
+              hanc trinitatem non tres de<lb ed="#G"/>os 
+              sed unum deum; et quemadmodum 
+              <lb ed="#G"/>id intellegant quaerunt, praesertim 
+              <lb ed="#G"/>cum dicitur inseparabiliter ope<lb ed="#G"/>rari 
+              trinitatem in omni re quam 
+              <lb ed="#G"/>deus operatur, et tamen quandam uo<lb ed="#G"/>cem 
+              patris sonuisse, quae uox filii 
+              <lb ed="#G"/>non sit; in carne autem natum et 
+              <lb ed="#G"/>passum et resurrexisse et ascendis<lb ed="#G"/>se 
+              non nisi filium; in columbae 
+              <lb ed="#G"/>autem specie uenisse non nisi 
+              <pb ed="#G" n="18"/><!-- ends at 43 -->
+              <cb ed="#G" n="a"/>
+              <lb ed="#G"/>spiritum sanctum. Intellegere uolunt quomodo et illam uocem quae non nisi patris fuit trinitas fecerit, et illam carnem in qua non nisi filius de uirgine natus est eadem trinitas creauerit, et illam columbae speciem in qua non nisi spiritus sanctus apparuit illa ipsa trinitas operata sit. Alioquin non inseparabiliter trinitas operatur, sed alia pater facit, alia filius, alia spiritus sanctus; aut si quaedam simul faciunt, quaedam sine inuicem, iam non inseparabilis trinitas. Mouet etiam quomodo spiritus sanctus in trinitate sit, quem nec pater nec filius nec ambo genuerint, cum sit spiritus patris et filii. Quia ergo quaerunt ista homines, et taedio nobis sunt ut si quid hinc ex dono dei sapit infirmitas nostra, edisseramus eis ut possumus, neque cum inuidia tabescente iter habeamus.</p>
             
             <p xml:id="adt-l1-d1e46">Si dicimus nos nihil de talibus rebus cogitare solere, mentimur; si autem fatemur habitare ista in cogitationibus nostris quoniam rapimur amore indagandae ueritatis, flagitant iure caritatis ut eis indicemus quid hinc excogitare potuerimus. Non quia iam acceperim aut iam perfectus sim (nam si Paulus apostolus, quanto magis ego longe infra illius pedes iacens, non me arbitror apprehendisse?), sed pro modulo meo si ea quae retro sunt obliuiscor et in anteriora me extendo et secundum intentionem sequor ad palmam supernae uocationis, quantum eiusdem uiae peregerim et quo peruenerim unde mihi in fine reliquus cursus est ut aperiam desideratur a me illis desiderantibus quibus me seruire cogit libera caritas. Oportet autem et donabit deus ut eis ministrando quae legant ipse quoque proficiam, et eis cupiens respondere quaerentibus ipse quoque inueniam quod quaerebam. Ergo suscepi haec iubente atque adiuuante domino deo nostro non tam cognita cum auctoritate disserere quam ea cum pietate disserendo cognoscere.</p>
           </div>
