@@ -81,7 +81,7 @@
               'dei cultus.'
             </p>
             <p xml:id="adt-l14-d1e1529">hanc esse hominis sapien<lb ed="#G" break="no" n="19"/>tiam 
-              quod et in duodecimo huius operis uolumine iam posuimus scriptu<lb ed="#G" break="no" n="20"/>rae 
+              quod et in duodecimo huius ope<lb ed="#G" break="no"/>ris uolumine iam posuimus scriptu<lb ed="#G" break="no" n="20"/>rae 
               sanctae auctoritate monstratur 
               <lb ed="#G" n="21"/>In libro serui dei <name>iob</name> ubi legitur dei sa<lb ed="#G" break="no" n="22"/>pientiam 
               dixisse homini: Ecce pi<lb ed="#G" break="no" n="23"/>etas 
@@ -122,7 +122,7 @@
               disputatio? Nonne terrebimur 
               <lb ed="#G" n="52"/>exemplo <name>pithagorae</name> Qui cum ausus 
               <lb ed="#G" n="53"/>non fuisset sapientem profiteri, phi<lb ed="#G" break="no" n="54"/>losophum 
-              potius, id est amatorem sapientiae, se esse respondit, a quo id no<lb ed="#G" break="no" n="55"/>men 
+              potius, id est amatorem sapi<lb ed="#G" break="no"/>entiae, se esse respondit, a quo id no<lb ed="#G" break="no" n="55"/>men 
               exortum ita deinceps posteris 
               <lb ed="#G" n="56"/>placuit ut quantalibet de rebus ad sapi<lb ed="#G" break="no" n="57"/>entiam 
               pertinentibus doctrina quisque 
@@ -190,9 +190,9 @@
               <lb ed="#G" n="49"/>hunc librum differens, etiam de rebus 
               <lb ed="#G" n="50"/>aeternis <del rend="strikethrough">fidem tempo</del> fidem tempora<lb ed="#G" break="no" n="51"/>lem 
               quidem et temporaliter in creden<lb ed="#G" break="no" n="52"/>tium 
-              cordibus habitare, Necessariam 
-              tamen propter adipiscenda ipsa ae<lb ed="#G" break="no" n="53"/>terna 
-              <lb ed="#G" n="54"/>esse monstraui. Fidem quoque 
+              cordibus habitare Necessariam 
+              <lb ed="#G"/>tamen propter adipiscenda ipsa ae<lb ed="#G" break="no" n="53"/>terna 
+              esse monstraui. Fidem quoque 
               <lb ed="#G" n="55"/>de temporalibus rebus quas pro nobis aeternus 
               <lb ed="#G" n="56"/>fecit et passus <add place="above-line">est</add> in homine quem temporali<lb ed="#G" break="no" n="57"/>ter 
               gessit atque ad aeterna peruexit 
@@ -438,7 +438,7 @@
             </p>
             <p xml:id="adt-l14-d1e1554">
               <lb ed="#G" n="63"/>Quaeramus igitur in hac imagine dei 
-              <lb ed="#G" n="64"/>quandam sui generis trinitatem adiu<pb ed="#G" n="285"/><lb ed="#G" n="1"/><lb ed="#G" break="no" n="2"/>uante 
+              <lb ed="#G" n="64"/>quandam sui generis trinitatem adiu<pb ed="#G" n="285"/><cb ed="#G" n="a"/><lb ed="#G" break="no" n="2"/>uante 
               ipso qui nos fecit ad imagi<lb ed="#G" break="no" n="3"/>nem 
               suam Non enim aliter possu<lb ed="#G" break="no" n="4"/>mus 
               haec salubriter uestigare et se<lb ed="#G" break="no" n="5"/>cundum 
@@ -700,7 +700,8 @@
               <lb ed="#G" n="19"/>et meminit eius disciplinae et intel<lb ed="#G" break="no" n="20"/>legit 
               et diligit eam Sed quamuis 
               <lb ed="#G" n="21"/>eam nouerit et amet nunc illam non 
-              <lb ed="#G" n="22"/>cogitat quoniam geometricam de qua disputat cogitat
+              <lb ed="#G" n="22"/>cogitat quoniam geometricam de qua 
+              <lb ed="#G"/>disputat cogitat
             </p>
             <p xml:id="adt-l14-d1e1577">
               Hinc ammo<lb ed="#G" break="no" n="23"/>nemur 
@@ -751,14 +752,14 @@
               <lb ed="#G" n="61"/>cogitat quale in illo erat ubi ante 
               <lb ed="#G" n="62"/>cogitationem meminerat Quia fa<lb ed="#G" break="no" n="63"/>cilius 
               dinoscitur quod tempore acce<lb ed="#G" break="no" n="64"/>dit 
-              et ubi parens prolem spatio tempo<pb ed="#G" n="288"/><cb ed="#G" n="a"/><lb ed="#G" n="1"/>ris 
+              et ubi parens prolem spatio tempo<pb ed="#G" n="289"/><cb ed="#G" n="a"/><lb ed="#G" n="1"/>ris 
               antecedit Nam si nos refe<lb ed="#G" break="no" n="2"/>ramus 
               ad interiorem mentis me<lb ed="#G" break="no" n="3"/>moriam 
               qua sui meminit et inte<lb ed="#G" break="no" n="4"/>riorem 
               intellegentiam qua se in<lb ed="#G" break="no" n="5"/>tellegit 
               et interiorem uoluntatem 
               <lb ed="#G" n="6"/>qua se diligit ubi haec tria simul 
-              semper sunt et simul semper fue<lb ed="#G" break="no" n="7"/>runt 
+              <lb ed="#G"/>semper sunt et simul semper fue<lb ed="#G" break="no" n="7"/>runt 
               ex quo esse coeperunt 
               <lb ed="#G" n="8"/>siue cogitarentur siue non cogi<lb ed="#G" break="no" n="9"/>tarentur 
               uidebitur quidem ima<lb ed="#G" break="no" n="10"/>go 
@@ -792,7 +793,8 @@
               <lb ed="#G" n="35"/>qua ratiocinatur de temporalibus 
               <lb ed="#G" n="36"/>rebus differens illam principaliter 
               <lb ed="#G" n="37"/>dominantem qua contemplatur 
-              <lb ed="#G" n="38"/>aeterna Atque id duobus uoluminibus egi duodecimo utrumque 
+              <lb ed="#G" n="38"/>aeterna Atque id duobus uolu<lb ed="#G" break="no"/>minibus 
+              egi duodecimo utrumque 
               <lb ed="#G" n="39"/>discernens Quorum unum est 
               <lb ed="#G" n="40"/>superius alterum inferius Quod 
               <lb ed="#G" n="41"/>superiori esse subditum debet ter<lb ed="#G" break="no" n="42"/>tio 
@@ -802,7 +804,7 @@
               <lb ed="#G" n="45"/>temporali uita id agamus quo con<lb ed="#G" break="no" n="46"/>sequamur 
               aeternam quanta potui 
               <lb ed="#G" n="47"/>ueritate ac breuitate disserui 
-              Quando quidem rem tam multipli<lb ed="#G" break="no" n="48"/>cem 
+              <lb ed="#G"/>Quando quidem rem tam multipli<lb ed="#G" break="no" n="48"/>cem 
               atque copiosam multorum atque 
               <lb ed="#G" n="49"/>magnorum disputationibus mul<lb ed="#G" break="no" n="50"/>tis 
               magnisque celebratam uno stric<lb ed="#G" break="no" n="51"/>tim 
@@ -829,7 +831,7 @@
               <cb ed="#G" n="a"/>
               <lb ed="#G" n="1"/>illius qua natura melior nulla 
               <lb ed="#G" n="2"/>est ibi quaerenda <del rend="strikethrough">et inuenienda</del> 
-              et inuenienda est in nobis quo 
+              <lb ed="#G"/>et inuenienda est in nobis quo 
               <lb ed="#G" n="3"/>etiam natura nostra nihil habet me<lb ed="#G" break="no" n="4"/>lius 
               Sed prius mens in se ipsa 
               <lb ed="#G" n="5"/>consideranda est antequam sit 
@@ -874,7 +876,7 @@
               <lb ed="#G" n="40"/>uel apparebat quando de illa sci<lb ed="#G" break="no" n="41"/>entia 
               disserebamus Iam in ho<lb ed="#G" break="no" n="42"/>minis 
               interioris opibus <seg type="correction">consti<add place="above-line">tu</add>ta</seg> quae 
-              distinguenda fuit sapientia unde 
+              <lb ed="#G"/>distinguenda fuit sapientia unde 
               <lb ed="#G" n="43"/>quae sciuntur uelut <seg type="correction">aduenti<add place="above-line">ci</add>a</seg> sunt 
               <lb ed="#G" n="44"/>in animo siue cognitione istorica 
               <lb ed="#G" n="45"/>inlata ut sunt facta et dicta quae 
@@ -949,7 +951,8 @@
               <lb ed="#G" n="46"/>et in praeteritis habebitur quan<lb ed="#G" break="no" n="47"/>do 
               succedente specie iam esse desti<lb ed="#G" break="no" n="48"/>terit 
               Aliamque nunc trinita<lb ed="#G" break="no" n="49"/>tem 
-              facit per suam praesentiam retenta conspecta dilecta Aliam 
+              facit per suam praesentiam 
+              <lb ed="#G"/>retenta conspecta dilecta Aliam 
               <lb ed="#G" n="50"/>tunc faciet per quoddam sui uesti<lb ed="#G" break="no" n="51"/>gium 
               quod in memoria praeteri<lb ed="#G" break="no" n="52"/>ens 
               dereliquerit sicut iam supra 
@@ -988,7 +991,7 @@
               nulla fierent aut ipsis etiam 
               <lb ed="#G" n="13"/>uirtutibus Nec enim fortitudi<lb ed="#G" break="no" n="14"/>ne 
               egeremus nullo proposito 
-              aut labore aut periculo nec iusti<lb ed="#G" break="no" n="15"/>tia 
+              <lb ed="#G"/>aut labore aut periculo nec iusti<lb ed="#G" break="no" n="15"/>tia 
               cum esse nihil quod appete<lb ed="#G" break="no" n="16"/>retur 
               alieni Nec temperan<lb ed="#G" break="no" n="17"/>tia 
               quae regeret eas quae nullae 
@@ -1079,7 +1082,7 @@
               temporis antecedunt Sicut 
               <lb ed="#G" n="25"/>sunt ea sensibilia quae iam erant 
               <lb ed="#G" n="26"/>in rebus antequam <seg type="correction">cognoscere<add place="above-line">n</add>tur</seg> 
-              uel ea omnia quae per historiam cog<lb ed="#G" break="no" n="27"/>noscuntur 
+              <lb ed="#G"/>uel ea omnia quae per historiam cog<lb ed="#G" break="no" n="27"/>noscuntur 
               Quaedam uero si<lb ed="#G" break="no" n="28"/>mul 
               esse incipiunt uelut si ali<lb ed="#G" break="no" n="29"/>quid 
               uisibile quod omnino non 
@@ -1119,7 +1122,7 @@
               <lb ed="#G" n="62"/>numquam se amare destiterit sicut 
               <lb ed="#G" n="63"/>iam ostendimus Ac per hoc 
               <pb ed="#G" n="294"/>
-              <lb ed="#G" n="1"/>
+              <cb ed="#G" n="a"/>
               <lb ed="#G" n="2"/>quando ad se ipsam cogitatione 
               <lb ed="#G" n="3"/>conuertitur fit trinitas in qua iam 
               <lb ed="#G" n="4"/>et uerbum possit intellegi forma<lb ed="#G" break="no" n="5"/>tur 
@@ -1269,7 +1272,8 @@
               <lb ed="#G" n="57"/>nisi in quo sunt non tamen omnes 
               <lb ed="#G" n="58"/>cum illo sunt Eo modo quo ei dic<lb ed="#G" break="no" n="59"/>tum 
               est ego semper tecum Nec ip<lb ed="#G" break="no" n="60"/>se 
-              cum omnibus eo modo quo dicimus dominus uobiscum Mag<lb ed="#G" break="no" n="61"/>na 
+              cum omnibus eo modo quo 
+              <lb ed="#G"/>dicimus dominus uobiscum Mag<lb ed="#G" break="no" n="61"/>na 
               itaque hominis miseria est cum 
               <lb ed="#G" n="62"/>illo non esse sine quo non potest 
               <lb ed="#G" n="63"/>esse In quo enim est procul du<pb ed="#G" n="296"/><cb ed="#G" n="a"/><lb ed="#G" break="no" n="1"/>bio 
@@ -1381,10 +1385,10 @@
               <lb ed="#G" n="22"/>hostibus illum Discissos nudis 
               <lb ed="#G" n="23"/>laniabant dentibus artus Cum 
               <lb ed="#G" n="24"/>morbus ille corporis fuerit <sic>quur</sic> 
-              dixit errorem; Nisi quia omne 
+              <lb ed="#G"/>dixit errorem; Nisi quia omne 
               <lb ed="#G" n="25"/>animal cum sibi natura conciliatum 
               <lb ed="#G" n="26"/>sit ut se custodiat quantum potest 
-              Talis ille erat morbus ut ea quorum 
+              <lb ed="#G"/>Talis ille erat morbus ut ea quorum 
               <lb ed="#G" n="27"/>salutem appetebant sua membra 
               <lb ed="#G" n="28"/>laniarent
             </p>
@@ -1404,7 +1408,7 @@
               <lb ed="#G" n="40"/>diligat ut si alterutrum pr<subst><add place="above-line">o</add><del>e</del></subst>po<lb ed="#G" break="no" n="41"/>natur 
               malit omnia quae infra 
               <lb ed="#G" n="42"/>se diligit perdere quam perire 
-              Tamen superiorem deserendo ad quem 
+              <lb ed="#G"/>Tamen superiorem deserendo ad quem 
               <lb ed="#G" n="43"/>solum posset custodire fortitu<lb ed="#G" break="no" n="44"/>dinem 
               suam eoque frui lumine suo 
               <lb ed="#G" n="45"/>cui canitur in psalmo Fortitudi<lb ed="#G" break="no" n="46"/>nem 
@@ -1478,7 +1482,7 @@
               corporis quibus non aurum <add place="margin-right">rarum</add> 
               <lb ed="#G" n="44"/>quisque homo sed omnis homo 
               <lb ed="#G" n="45"/>possidet caelum Per lumina 
-              <lb ed="#G" n="46"/>enim corporis quisque possidet quicquid 
+              <lb ed="#G" n="46"/>enim corporis quisque possidet quic<lb ed="#G" break="no"/>quid 
               libenter uidet Quis er<lb ed="#G" break="no" n="47"/>go 
               si tenere utrumque non possit et 
               <lb ed="#G" n="48"/>alter utrum cogatur amittere non 
@@ -1616,8 +1620,8 @@
               Nihil enim horum omnino 
               <lb ed="#G" n="22"/>reminiscitur; quicquid eorum est 
               <lb ed="#G" n="23"/>obliuione deletum est Sed com<lb ed="#G" break="no" n="24"/>memoratur 
-              ut conuertatur ad dominum tamquam 
-              <lb ed="#G" n="25"/>ad eam lucem qua etiam 
+              ut conuertatur ad dominum 
+              <lb ed="#G" n="25"/>tamquam ad eam lucem qua etiam 
               <lb ed="#G" n="26"/>cum ab illo auerteretur quodam mo<lb ed="#G" break="no" n="27"/>do 
               tangebatur Nam hinc est 
               <lb ed="#G" n="28"/>quod etiam impii cogitant aeter<lb ed="#G" break="no" n="29"/>nitatem 
@@ -1644,7 +1648,8 @@
               Ubi cernit habendum esse 
               <lb ed="#G" n="47"/>quod ipse non habet Ubi ergo 
               <lb ed="#G" n="48"/>scriptae sunt nisi in libro lucis illi<lb ed="#G" break="no" n="49"/>us 
-              quae ueritas dicitur Unde omnis lex iusta describitur et in 
+              quae ueritas dicitur Unde 
+              <lb ed="#G" n="25"/>omnis lex iusta describitur et in 
               <lb ed="#G" n="50"/>cor hominis qui operatur iustitiam 
               <lb ed="#G" n="51"/>non migrando sed tamquam inpri<lb ed="#G" break="no" n="52"/>mendo 
               transfertur Sicut imago 
@@ -1758,7 +1763,7 @@
               <lb ed="#G" n="20"/>posuit hic in agnitione dei Fit ergo 
               <lb ed="#G" n="21"/>ista renouatio reformatioque mentis 
               <lb ed="#G" n="22"/>secundum deum uel secundum imaginem dei Sed 
-              ideo dicitur secundum deum ne secundum 
+              <lb ed="#G" n="25"/>ideo dicitur secundum deum ne secundum 
               <lb ed="#G" n="23"/>aliam creaturam fieri putetur Ideo 
               <lb ed="#G" n="24"/>autem secundum imaginem dei ut in ea re in<lb ed="#G" break="no" n="25"/>tellegatur 
               fieri haec renouatio ubi 

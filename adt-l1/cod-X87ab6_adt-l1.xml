@@ -170,7 +170,7 @@
               <lb ed="#G"/>esse aliquo modo dicatur et corpus 
               <lb ed="#G"/>et animus, nisi proprio quodam mo<lb ed="#G"/>do 
               uellet intellegi, non id utique di<lb ed="#G"/>ceret. 
-              <add place="above-line">Et</add> illud quod ait apostolus: <quote xml:id="adt-l1-QdcdXnX" source="http://scta.info/resource/Itim6_16@1-4">qui 
+              <add place="above-line">Et</add> illud quod ait apostolus: <quote xml:id="adt-l1-QdcdXnX">qui 
               <lb ed="#G"/>solus habet immortalitatem</quote>. cum 
               <lb ed="#G"/>et anima modo quodam inmorta<lb ed="#G"/>lis 
               esse dicatur et sit, Non diceret, 
@@ -493,9 +493,31 @@
               <lb ed="#G"/>autem specie uenisse non nisi 
               <pb ed="#G" n="18"/><!-- ends at 43 -->
               <cb ed="#G" n="a"/>
-              <lb ed="#G"/>spiritum sanctum. Intellegere uolunt quomodo et illam uocem quae non nisi patris fuit trinitas fecerit, et illam carnem in qua non nisi filius de uirgine natus est eadem trinitas creauerit, et illam columbae speciem in qua non nisi spiritus sanctus apparuit illa ipsa trinitas operata sit. Alioquin non inseparabiliter trinitas operatur, sed alia pater facit, alia filius, alia spiritus sanctus; aut si quaedam simul faciunt, quaedam sine inuicem, iam non inseparabilis trinitas. Mouet etiam quomodo spiritus sanctus in trinitate sit, quem nec pater nec filius nec ambo genuerint, cum sit spiritus patris et filii. Quia ergo quaerunt ista homines, et taedio nobis sunt ut si quid hinc ex dono dei sapit infirmitas nostra, edisseramus eis ut possumus, neque cum inuidia tabescente iter habeamus.</p>
-            
-            <p xml:id="adt-l1-d1e46">Si dicimus nos nihil de talibus rebus cogitare solere, mentimur; si autem fatemur habitare ista in cogitationibus nostris quoniam rapimur amore indagandae ueritatis, flagitant iure caritatis ut eis indicemus quid hinc excogitare potuerimus. Non quia iam acceperim aut iam perfectus sim (nam si Paulus apostolus, quanto magis ego longe infra illius pedes iacens, non me arbitror apprehendisse?), sed pro modulo meo si ea quae retro sunt obliuiscor et in anteriora me extendo et secundum intentionem sequor ad palmam supernae uocationis, quantum eiusdem uiae peregerim et quo peruenerim unde mihi in fine reliquus cursus est ut aperiam desideratur a me illis desiderantibus quibus me seruire cogit libera caritas. Oportet autem et donabit deus ut eis ministrando quae legant ipse quoque proficiam, et eis cupiens respondere quaerentibus ipse quoque inueniam quod quaerebam. Ergo suscepi haec iubente atque adiuuante domino deo nostro non tam cognita cum auctoritate disserere quam ea cum pietate disserendo cognoscere.</p>
+              <lb ed="#G"/>spiritum sanctum intellegere uolunt Quo<lb ed="#G"/>modo 
+              et illam uocem quae non nisi pa<lb ed="#G"/>tris 
+              fuit trinitas fecerit et illam car<lb ed="#G"/>nem 
+              in qua non nisi filius de uirgine 
+              <lb ed="#G"/>natus est eadem trinitas creauerit 
+              <lb ed="#G"/>et illam columbae speciem in qua non 
+              <lb ed="#G"/>nisi spiritus sanctus apparuit illa ipsa trinitas 
+              <lb ed="#G"/>operata sit; Alioquin non insepara<lb ed="#G"/>biliter 
+              trinitas operatur sed alia 
+              <lb ed="#G"/>pater facit alia filius alia spiritus sanctus aut 
+              <lb ed="#G"/>si quaedam simul faciunt quaedam si<lb ed="#G"/>ne 
+              inuicem iam non inseparabilis 
+              <lb ed="#G"/>trinitas mouet etiam quomodo 
+              <lb ed="#G"/>spiritus sanctus in trinitate sit quem nec pa<lb ed="#G"/>ter 
+              nec filius nec ambo genuerint 
+              <lb ed="#G"/>cum sit spiritus patris et filii Quia ergo 
+              <lb ed="#G"/>quaerunt ista homines et taedio nobis 
+              <lb ed="#G"/>sunt <!--"ut" seems missing in a gap--> si quid hinc ex dono dei sa<lb ed="#G"/>pit 
+              infirmitas nostra edisseramus eis 
+              <lb ed="#G"/>ut possumus Neque cum inuidia tabes<lb ed="#G"/>cente 
+              iter habeamus
+            </p>
+            <p xml:id="adt-l1-d1e46">
+              Si dicimus nos 
+              <lb ed="#G"/>nihil de talibus rebus cogitare sole<lb ed="#G"/>re mentimur; si autem fatemur habitare ista in cogitationibus nostris quoniam rapimur amore indagandae ueritatis, flagitant iure caritatis ut eis indicemus quid hinc excogitare potuerimus. Non quia iam acceperim aut iam perfectus sim (nam si Paulus apostolus, quanto magis ego longe infra illius pedes iacens, non me arbitror apprehendisse?), sed pro modulo meo si ea quae retro sunt obliuiscor et in anteriora me extendo et secundum intentionem sequor ad palmam supernae uocationis, quantum eiusdem uiae peregerim et quo peruenerim unde mihi in fine reliquus cursus est ut aperiam desideratur a me illis desiderantibus quibus me seruire cogit libera caritas. Oportet autem et donabit deus ut eis ministrando quae legant ipse quoque proficiam, et eis cupiens respondere quaerentibus ipse quoque inueniam quod quaerebam. Ergo suscepi haec iubente atque adiuuante domino deo nostro non tam cognita cum auctoritate disserere quam ea cum pietate disserendo cognoscere.</p>
           </div>
         </div>
         <div xml:id="adt-l1-Dd1e173">
