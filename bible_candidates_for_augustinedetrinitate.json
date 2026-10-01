@@ -1,0 +1,2114 @@
+{
+  "adt-l1": {
+    "adt-l1-d1e14": [
+      {
+        "candidate_id": "iac1_17",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l1-d1e17": [
+      {
+        "candidate_id": "Icor3_1",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "Icor2_3",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "Icor3_2",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l1-d1e49": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "Iio5_20",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l1-d1e52": [
+      {
+        "candidate_id": "Itim6_15",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "Itim6_14",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l1-d1e55": [
+      {
+        "candidate_id": "io5_21",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l1-d1e59": [
+      {
+        "candidate_id": "Icor8_6",
+        "intersectionCount": 15
+      },
+      {
+        "candidate_id": "rom11_34",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "phil2_6",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "rom11_33",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l1-d1e62": [
+      {
+        "candidate_id": "lc4_8",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "mt4_10",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l1-d1e68": [
+      {
+        "candidate_id": "Itim2_5",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l1-d1e71": [
+      {
+        "candidate_id": "gal4_5",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Icor9_21",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "phil2_7",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "phil2_6",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l1-d1e78": [
+      {
+        "candidate_id": "phil3_20",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Icor15_24",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l1-d1e81": [
+      {
+        "candidate_id": "ps111_8",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Icor15_25",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l1-d1e84": [
+      {
+        "candidate_id": "lc10_22",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "mt11_27",
+        "intersectionCount": 21
+      },
+      {
+        "candidate_id": "Itim2_5",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "Icor15_24",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l1-d1e87": [
+      {
+        "candidate_id": "Itim2_5",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 9
+      },
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l1-d1e90": [
+      {
+        "candidate_id": "io14_8",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "rom8_24",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "io14_11",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ps90_16",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "rom8_25",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io14_10",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "io14_9",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l1-d1e103": [
+      {
+        "candidate_id": "io14_28",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io20_17",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io14_21",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l1-d1e106": [
+      {
+        "candidate_id": "io14_23",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l1-d1e112": [
+      {
+        "candidate_id": "lc10_42",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io16_22",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l1-d1e116": [
+      {
+        "candidate_id": "Itim2_5",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "ps26_4",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l1-d1e119": [
+      {
+        "candidate_id": "io16_26",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "io16_28",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "io16_27",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l1-d1e122": [
+      {
+        "candidate_id": "rom8_32",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l1-d1e125": [
+      {
+        "candidate_id": "io5_26",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "mt12_32",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "phil2_8",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "lc4_18",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l1-d1e131": [
+      {
+        "candidate_id": "io16_12",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "io15_15",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mc13_32",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l1-d1e135": [
+      {
+        "candidate_id": "mt20_23",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "mc10_40",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "rom8_30",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "col1_17",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l1-d1e138": [
+      {
+        "candidate_id": "io14_25",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "io14_26",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "mt20_23",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l1-d1e141": [
+      {
+        "candidate_id": "io12_48",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "io12_50",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l1-d1e147": [
+      {
+        "candidate_id": "io7_16",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l1-d1e150": [
+      {
+        "candidate_id": "mc10_40",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mt20_23",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l1-d1e154": [
+      {
+        "candidate_id": "Icor2_8",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Icor15_28",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mt25_31",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l1-d1e163": [
+      {
+        "candidate_id": "phil2_10",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "phil2_8",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "phil2_11",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l1-d1e166": [
+      {
+        "candidate_id": "io5_24",
+        "intersectionCount": 14
+      },
+      {
+        "candidate_id": "io5_27",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "io5_25",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l1-d1e169": [
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io5_28",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l1-d1e173": [
+      {
+        "candidate_id": "lc6_45",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mt12_35",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ps26_4",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l1-d1e176": [
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mt25_34",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "adt-l2": {
+    "adt-l2-d1e188": [
+      {
+        "candidate_id": "ps140_5",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l2-d1e194": [
+      {
+        "candidate_id": "io5_27",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "phil2_6",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l2-d1e197": [
+      {
+        "candidate_id": "io7_16",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l2-d1e201": [
+      {
+        "candidate_id": "io16_13",
+        "intersectionCount": 13
+      },
+      {
+        "candidate_id": "io15_26",
+        "intersectionCount": 18
+      },
+      {
+        "candidate_id": "io16_14",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io7_16",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io16_15",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l2-d1e207": [
+      {
+        "candidate_id": "io16_7",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l2-d1e210": [
+      {
+        "candidate_id": "io1_10",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "ps138_7",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ps138_8",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l2-d1e213": [
+      {
+        "candidate_id": "gal4_4",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "gal4_5",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "lc1_35",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Icor9_21",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mt1_18",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l2-d1e220": [
+      {
+        "candidate_id": "mt1_18",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l2-d1e223": [
+      {
+        "candidate_id": "gal4_4",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l2-d1e242": [
+      {
+        "candidate_id": "gal4_4",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l2-d1e248": [
+      {
+        "candidate_id": "Itim1_17",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "Itim6_15",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l2-d1e273": [
+      {
+        "candidate_id": "Icor8_6",
+        "intersectionCount": 13
+      },
+      {
+        "candidate_id": "IIcor3_17",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "act13_33",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "hebr5_5",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "act7_3",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "hebr1_5",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "lc4_8",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "mt4_10",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "Icor8_5",
+        "intersectionCount": 9
+      },
+      {
+        "candidate_id": "gen12_1",
+        "intersectionCount": 9
+      },
+      {
+        "candidate_id": "ps2_7",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l2-d1e277": [
+      {
+        "candidate_id": "phil2_6",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "phil2_7",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l2-d1e289": [
+      {
+        "candidate_id": "ex3_6",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "act3_13",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "act7_32",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ex3_16",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mc12_26",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mt22_32",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "tob7_15",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l2-d1e292": [
+      {
+        "candidate_id": "rom9_5",
+        "intersectionCount": 13
+      },
+      {
+        "candidate_id": "act3_13",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "act7_32",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ex3_16",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "lc20_37",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "tob7_15",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mc12_26",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "mt22_32",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l2-d1e305": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l2-d1e315": [
+      {
+        "candidate_id": "ex33_13",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l2-d1e318": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 10
+      }
+    ],
+    "adt-l2-d1e324": [
+      {
+        "candidate_id": "ps142_2",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l2-d1e327": [
+      {
+        "candidate_id": "ex33_13",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "mt16_18",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "mc12_33",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l2-d1e330": [
+      {
+        "candidate_id": "io13_1",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "rom4_25",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l2-d1e337": [
+      {
+        "candidate_id": "ps31_1",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "ps31_5",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ps31_4",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "rom4_7",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l2-d1e343": [
+      {
+        "candidate_id": "act13_33",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "hebr1_5",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "hebr5_5",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ps2_7",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ps2_8",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l2-d1e346": [
+      {
+        "candidate_id": "dan7_9",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "dan7_14",
+        "intersectionCount": 8
+      }
+    ]
+  },
+  "adt-l3": {
+    "adt-l3-d1e368": [
+      {
+        "candidate_id": "sap1_7",
+        "intersectionCount": 11
+      }
+    ],
+    "adt-l3-d1e378": [
+      {
+        "candidate_id": "sap16_24",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "sap16_25",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l3-d1e384": [
+      {
+        "candidate_id": "ps121_3",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l3-d1e397": [
+      {
+        "candidate_id": "hebr1_7",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l3-d1e428": [
+      {
+        "candidate_id": "Icor3_6",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l3-d1e454": [
+      {
+        "candidate_id": "act3_13",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "act7_32",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ex3_16",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ps49_7",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "tob7_15",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mc12_26",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "mt22_32",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l3-d1e457": [
+      {
+        "candidate_id": "io3_15",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io3_16",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l3-d1e463": [
+      {
+        "candidate_id": "sap9_16",
+        "intersectionCount": 19
+      },
+      {
+        "candidate_id": "sap9_14",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "sap9_15",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l3-d1e473": [
+      {
+        "candidate_id": "hebr1_13",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "hebr2_3",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "ps109_1",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Icor10_11",
+        "intersectionCount": 9
+      },
+      {
+        "candidate_id": "hebr2_2",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l3-d1e479": [
+      {
+        "candidate_id": "act7_32",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "act3_13",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ex3_16",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "lc20_37",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mc12_26",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mt22_32",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "tob7_15",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "act7_30",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l3-d1e482": [
+      {
+        "candidate_id": "gen22_1",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "gen22_2",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l3-d1e489": [
+      {
+        "candidate_id": "gal3_19",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "io5_46",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Itim2_5",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "act7_52",
+        "intersectionCount": 8
+      }
+    ]
+  },
+  "adt-l4": {
+    "adt-l4-d1e513": [
+      {
+        "candidate_id": "rom5_9",
+        "intersectionCount": 12
+      },
+      {
+        "candidate_id": "rom5_10",
+        "intersectionCount": 17
+      },
+      {
+        "candidate_id": "rom8_32",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "IIcor12_9",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "rom8_31",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "ps67_10",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l4-d1e517": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l4-d1e520": [
+      {
+        "candidate_id": "io1_5",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l4-d1e523": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l4-d1e526": [
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l4-d1e529": [
+      {
+        "candidate_id": "rom8_11",
+        "intersectionCount": 16
+      },
+      {
+        "candidate_id": "eph5_14",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l4-d1e536": [
+      {
+        "candidate_id": "rom6_6",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "col3_1",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io20_17",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l4-d1e539": [
+      {
+        "candidate_id": "io20_17",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "lc24_39",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l4-d1e542": [
+      {
+        "candidate_id": "mt1_17",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l4-d1e551": [
+      {
+        "candidate_id": "mt12_40",
+        "intersectionCount": 17
+      }
+    ],
+    "adt-l4-d1e555": [
+      {
+        "candidate_id": "eph5_8",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l4-d1e564": [
+      {
+        "candidate_id": "io17_20",
+        "intersectionCount": 12
+      },
+      {
+        "candidate_id": "io17_21",
+        "intersectionCount": 20
+      },
+      {
+        "candidate_id": "io17_22",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l4-d1e567": [
+      {
+        "candidate_id": "io17_23",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l4-d1e577": [
+      {
+        "candidate_id": "rom10_18",
+        "intersectionCount": 10
+      }
+    ],
+    "adt-l4-d1e580": [
+      {
+        "candidate_id": "rom5_12",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l4-d1e583": [
+      {
+        "candidate_id": "io10_18",
+        "intersectionCount": 11
+      }
+    ],
+    "adt-l4-d1e615": [
+      {
+        "candidate_id": "rom1_21",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l4-d1e621": [
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l4-d1e624": [
+      {
+        "candidate_id": "ier51_48",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l4-d1e627": [
+      {
+        "candidate_id": "gal4_4",
+        "intersectionCount": 10
+      }
+    ],
+    "adt-l4-d1e631": [
+      {
+        "candidate_id": "io14_21",
+        "intersectionCount": 14
+      },
+      {
+        "candidate_id": "io14_9",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l4-d1e637": [
+      {
+        "candidate_id": "Itim3_16",
+        "intersectionCount": 13
+      },
+      {
+        "candidate_id": "sap9_10",
+        "intersectionCount": 15
+      },
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l4-d1e640": [
+      {
+        "candidate_id": "Icor1_21",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l4-d1e646": [
+      {
+        "candidate_id": "rom10_18",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "ps18_4",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "adt-l5": {
+    "adt-l5-d1e680": [
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l5-d1e740": [
+      {
+        "candidate_id": "rom8_9",
+        "intersectionCount": 5
+      }
+    ]
+  },
+  "adt-l6": {
+    "adt-l6-d1e804": [
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l6-d1e823": [
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 7
+      }
+    ]
+  },
+  "adt-l7": {
+    "adt-l7-d1e845": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l7-d1e867": [
+      {
+        "candidate_id": "lc10_22",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mt11_27",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l7-d1e870": [
+      {
+        "candidate_id": "Iio1_5",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l7-d1e874": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l7-d1e877": [
+      {
+        "candidate_id": "Icor6_20",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Icor3_16",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "Icor6_19",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l7-d1e902": [
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l7-d1e921": [
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l7-d1e924": [
+      {
+        "candidate_id": "col3_10",
+        "intersectionCount": 4
+      }
+    ]
+  },
+  "adt-l8": {
+    "adt-l8-d1e968": [
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l8-d1e996": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "Icor8_3",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "gal5_14",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "rom8_28",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "mt7_12",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l8-d1e999": [
+      {
+        "candidate_id": "mt11_29",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "mt11_28",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l8-d1e1006": [
+      {
+        "candidate_id": "Iio5_1",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Iio1_5",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "Iio2_10",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "Iio4_16",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "Iio4_7",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l8-d1e1009": [
+      {
+        "candidate_id": "IIcor6_8",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "IIcor6_10",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "IIcor6_2",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "IIcor6_7",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "IIcor6_4",
+        "intersectionCount": 8
+      },
+      {
+        "candidate_id": "IIcor6_6",
+        "intersectionCount": 8
+      }
+    ]
+  },
+  "adt-l9": {
+    "adt-l9-d1e1027": [
+      {
+        "candidate_id": "Icor8_3",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l9-d1e1081": [
+      {
+        "candidate_id": "mt11_28",
+        "intersectionCount": 7
+      }
+    ]
+  },
+  "adt-l10": {
+    "adt-l10-d1e1150": [
+      {
+        "candidate_id": "ps110_1",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "ps137_1",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "ps9_2",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "deut6_5",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "lc10_27",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mt22_37",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "mc12_30",
+        "intersectionCount": 6
+      }
+    ]
+  },
+  "adt-l12": {
+    "adt-l12-d1e1309": [
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l12-d1e1312": [
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l12-d1e1315": [
+      {
+        "candidate_id": "rom1_4",
+        "intersectionCount": 14
+      },
+      {
+        "candidate_id": "ps3_9",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l12-d1e1321": [
+      {
+        "candidate_id": "Icor11_7",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l12-d1e1328": [
+      {
+        "candidate_id": "Itim2_15",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l12-d1e1331": [
+      {
+        "candidate_id": "gal3_28",
+        "intersectionCount": 16
+      },
+      {
+        "candidate_id": "col3_10",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "gal3_27",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "gal3_26",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l12-d1e1344": [
+      {
+        "candidate_id": "rom7_25",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l12-d1e1366": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 11
+      }
+    ]
+  },
+  "adt-l13": {
+    "adt-l13-d1e1387": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "io1_12",
+        "intersectionCount": 13
+      },
+      {
+        "candidate_id": "io1_13",
+        "intersectionCount": 14
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 19
+      },
+      {
+        "candidate_id": "io1_11",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io1_4",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io1_5",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io1_6",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io1_9",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io1_10",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "io1_8",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "io1_7",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l13-d1e1390": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "io1_4",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io1_5",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io1_6",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io1_7",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l13-d1e1397": [
+      {
+        "candidate_id": "io1_7",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "io1_11",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io1_9",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io1_10",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l13-d1e1406": [
+      {
+        "candidate_id": "io1_13",
+        "intersectionCount": 14
+      },
+      {
+        "candidate_id": "io1_12",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l13-d1e1428": [
+      {
+        "candidate_id": "ps9_24",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l13-d1e1454": [
+      {
+        "candidate_id": "io1_13",
+        "intersectionCount": 13
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l13-d1e1460": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "rom5_9",
+        "intersectionCount": 12
+      },
+      {
+        "candidate_id": "rom5_10",
+        "intersectionCount": 17
+      }
+    ],
+    "adt-l13-d1e1466": [
+      {
+        "candidate_id": "rom5_10",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "rom8_32",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "rom8_31",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l13-d1e1469": [
+      {
+        "candidate_id": "eph2_2",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "eph2_3",
+        "intersectionCount": 14
+      },
+      {
+        "candidate_id": "eph2_1",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l13-d1e1476": [
+      {
+        "candidate_id": "ps93_15",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "ps93_12",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "ps93_14",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l13-d1e1482": [
+      {
+        "candidate_id": "Icor1_25",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l13-d1e1488": [
+      {
+        "candidate_id": "act26_16",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "col1_13",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "act26_18",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l13-d1e1492": [
+      {
+        "candidate_id": "rom8_30",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Icor10_13",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "rom8_32",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "rom8_28",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "rom8_29",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "rom8_31",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l13-d1e1495": [
+      {
+        "candidate_id": "rom5_12",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "rom5_11",
+        "intersectionCount": 12
+      },
+      {
+        "candidate_id": "rom5_9",
+        "intersectionCount": 12
+      },
+      {
+        "candidate_id": "rom5_10",
+        "intersectionCount": 14
+      }
+    ],
+    "adt-l13-d1e1504": [
+      {
+        "candidate_id": "col2_1",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 15
+      },
+      {
+        "candidate_id": "col2_3",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l13-d1e1507": [
+      {
+        "candidate_id": "rom1_23",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "col2_3",
+        "intersectionCount": 6
+      }
+    ]
+  },
+  "adt-l14": {
+    "adt-l14-d1e1621": [
+      {
+        "candidate_id": "rom10_3",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l14-d1e1624": [
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l14-d1e1643": [
+      {
+        "candidate_id": "Icor6_17",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l14-d1e460": [
+      {
+        "candidate_id": "Icor4_7",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l14-d1e1659": [
+      {
+        "candidate_id": "eph4_24",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "rom12_2",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l14-d1e1662": [
+      {
+        "candidate_id": "Icor14_14",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "eph4_24",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l14-d1e1668": [
+      {
+        "candidate_id": "IIcor3_18",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l14-d1e1672": [
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "Icor15_49",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "rom8_29",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l14-d1e1675": [
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "mt25_34",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "Icor15_52",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io17_3",
+        "intersectionCount": 6
+      }
+    ]
+  },
+  "adt-l15": {
+    "adt-l15-d1e1693": [
+      {
+        "candidate_id": "ps104_4",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "sir24_29",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l15-d1e1696": [
+      {
+        "candidate_id": "sap13_2",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "sap13_4",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "sap13_1",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "sap13_5",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l15-d1e1769": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "IIcor3_18",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l15-d1e1772": [
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l15-d1e1779": [
+      {
+        "candidate_id": "Ith5_8",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l15-d1e1791": [
+      {
+        "candidate_id": "lc5_22",
+        "intersectionCount": 12
+      },
+      {
+        "candidate_id": "lc5_21",
+        "intersectionCount": 16
+      },
+      {
+        "candidate_id": "mc2_7",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "mt9_4",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l15-d1e1794": [
+      {
+        "candidate_id": "mt15_11",
+        "intersectionCount": 12
+      },
+      {
+        "candidate_id": "mt15_17",
+        "intersectionCount": 12
+      },
+      {
+        "candidate_id": "mt15_18",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l15-d1e1798": [
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 10
+      }
+    ],
+    "adt-l15-d1e1801": [
+      {
+        "candidate_id": "io13_24",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "mc14_18",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "io13_22",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "io13_21",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "io13_23",
+        "intersectionCount": 7
+      }
+    ],
+    "adt-l15-d1e1807": [
+      {
+        "candidate_id": "Ith2_13",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "rom10_17",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l15-d1e1848": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l15-d1e1889": [
+      {
+        "candidate_id": "lc24_44",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l15-d1e1893": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 10
+      },
+      {
+        "candidate_id": "Iio4_13",
+        "intersectionCount": 4
+      },
+      {
+        "candidate_id": "Iio4_16",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "Iio4_7",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l15-d1e1896": [
+      {
+        "candidate_id": "gal6_15",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "gal5_6",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l15-d1e1899": [
+      {
+        "candidate_id": "io4_14",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "io4_11",
+        "intersectionCount": 15
+      },
+      {
+        "candidate_id": "io4_13",
+        "intersectionCount": 19
+      },
+      {
+        "candidate_id": "io4_10",
+        "intersectionCount": 25
+      },
+      {
+        "candidate_id": "io7_37",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "io7_38",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "io7_39",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l15-d1e1902": [
+      {
+        "candidate_id": "eph4_11",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "eph4_12",
+        "intersectionCount": 7
+      },
+      {
+        "candidate_id": "eph4_10",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l15-d1e1905": [
+      {
+        "candidate_id": "act11_17",
+        "intersectionCount": 13
+      },
+      {
+        "candidate_id": "act10_46",
+        "intersectionCount": 5
+      },
+      {
+        "candidate_id": "act10_44",
+        "intersectionCount": 6
+      },
+      {
+        "candidate_id": "act2_38",
+        "intersectionCount": 8
+      }
+    ],
+    "adt-l15-d1e1912": [
+      {
+        "candidate_id": "col1_13",
+        "intersectionCount": 6
+      }
+    ],
+    "adt-l15-d1e1915": [
+      {
+        "candidate_id": "prov19_21",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l15-d1e1959": [
+      {
+        "candidate_id": "mt10_20",
+        "intersectionCount": 11
+      },
+      {
+        "candidate_id": "gal4_6",
+        "intersectionCount": 9
+      }
+    ],
+    "adt-l15-d1e1962": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l15-d1e1965": [
+      {
+        "candidate_id": "act8_19",
+        "intersectionCount": 4
+      }
+    ],
+    "adt-l15-d1e1978": [
+      {
+        "candidate_id": "io7_16",
+        "intersectionCount": 5
+      }
+    ],
+    "adt-l15-d1e1991": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 5
+      }
+    ]
+  }
+}
