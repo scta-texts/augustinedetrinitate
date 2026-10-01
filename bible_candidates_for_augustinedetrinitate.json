@@ -3,435 +3,935 @@
     "adt-l1-d1e14": [
       {
         "candidate_id": "iac1_17",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "previously encoded"
       },
       {
         "candidate_id": "ex3_14",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps16_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps101_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps101_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e17": [
       {
         "candidate_id": "Icor3_1",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor2_3",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor3_2",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor2_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e49": [
       {
         "candidate_id": "io1_1",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio5_20",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_3",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e52": [
       {
         "candidate_id": "Itim6_15",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "Itim6_14",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim6_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sir24_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e55": [
       {
         "candidate_id": "io5_21",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim6_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps71_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e59": [
       {
         "candidate_id": "Icor8_6",
-        "intersectionCount": 15
+        "intersectionCount": 15,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom11_34",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "phil2_6",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom11_36",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom11_33",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom11_35",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor11_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e62": [
       {
         "candidate_id": "lc4_8",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "parallel to mt4_10; encoded with mt4_10"
       },
       {
         "candidate_id": "mt4_10",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil3_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e68": [
       {
         "candidate_id": "Itim2_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e71": [
       {
         "candidate_id": "gal4_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "gen1_26",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor9_21",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "shared phrase only; source is gal4_5"
       },
       {
         "candidate_id": "phil2_7",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "phil2_6",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal4_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e78": [
       {
         "candidate_id": "phil3_20",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor15_24",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor15_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil3_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e81": [
       {
         "candidate_id": "ps111_8",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor15_25",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor15_24",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e84": [
       {
         "candidate_id": "lc10_22",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "not_found",
+        "note": "parallel; wording (nouit) matches mt11_27"
       },
       {
         "candidate_id": "mt11_27",
-        "intersectionCount": 21
+        "intersectionCount": 21,
+        "status": "encoded"
       },
       {
         "candidate_id": "Itim2_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor13_12",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor15_24",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "cant1_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "cant1_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "col3_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col3_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e87": [
       {
         "candidate_id": "Itim2_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "ex3_14",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio3_2",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
       },
       {
         "candidate_id": "io17_3",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps5_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor15_24",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e90": [
       {
         "candidate_id": "io14_8",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_24",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "io14_11",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "io14_10 (credis) is the verse quoted"
       },
       {
         "candidate_id": "ps90_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_25",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io14_10",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "io14_9",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIcor5_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIcor5_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act15_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt5_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps15_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e103": [
       {
         "candidate_id": "io14_28",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io20_17",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io14_21",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e106": [
       {
         "candidate_id": "io14_23",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor15_24",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e112": [
       {
         "candidate_id": "lc10_42",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io16_22",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e116": [
       {
         "candidate_id": "Itim2_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps26_4",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e119": [
       {
         "candidate_id": "io16_26",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "io16_28",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "io16_27",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io16_25",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e122": [
       {
         "candidate_id": "rom8_32",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io16_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e125": [
       {
         "candidate_id": "io5_26",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt12_32",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "phil2_8",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "lc4_18",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt12_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt26_39",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e131": [
       {
         "candidate_id": "io16_12",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "io15_15",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "mc13_32",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen22_12",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor2_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor3_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor2_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e135": [
       {
         "candidate_id": "mt20_23",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "mc10_40",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel; 'uobis ... a patre meo' matches mt20_23"
       },
       {
         "candidate_id": "rom8_30",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "col1_17",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps109_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "prov8_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps18_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col1_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col1_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e138": [
       {
         "candidate_id": "io14_25",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "io14_26",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt20_23",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io16_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e141": [
       {
         "candidate_id": "io12_48",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "io12_50",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io12_49",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e147": [
       {
         "candidate_id": "io7_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e150": [
       {
         "candidate_id": "mc10_40",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "parallel; 'a patre meo' matches mt20_23"
       },
       {
         "candidate_id": "mt20_23",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e154": [
       {
         "candidate_id": "Icor2_8",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor15_28",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "paraphrase"
       },
       {
         "candidate_id": "mt25_31",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt25_32",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io19_37",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt5_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e163": [
       {
         "candidate_id": "phil2_10",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "phil2_8",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "phil2_11",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io8_50",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io5_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e166": [
       {
         "candidate_id": "io5_24",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded"
       },
       {
         "candidate_id": "io5_27",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "io5_25",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io5_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io5_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e169": [
       {
         "candidate_id": "io17_3",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io5_28",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "previously encoded"
       }
     ],
     "adt-l1-d1e173": [
       {
         "candidate_id": "lc6_45",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "parallel; plural bona/mala follows mt12_35"
       },
       {
         "candidate_id": "mt12_35",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps26_4",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps72_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l1-d1e176": [
       {
         "candidate_id": "Iio3_2",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io17_3",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt25_34",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps26_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -439,349 +939,707 @@
     "adt-l2-d1e188": [
       {
         "candidate_id": "ps140_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e194": [
       {
         "candidate_id": "io5_27",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "io5_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "phil2_6",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io5_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io5_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e197": [
       {
         "candidate_id": "io7_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e201": [
       {
         "candidate_id": "io16_13",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded"
       },
       {
         "candidate_id": "io15_26",
-        "intersectionCount": 18
+        "intersectionCount": 18,
+        "status": "encoded"
       },
       {
         "candidate_id": "io16_14",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io5_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io7_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io16_15",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e207": [
       {
         "candidate_id": "io16_7",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e210": [
       {
         "candidate_id": "io1_10",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps138_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps138_8",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "sap8_1",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io16_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ier23_24",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e213": [
       {
         "candidate_id": "gal4_4",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "gal4_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "lc1_35",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor9_21",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "shared phrase only; source is gal4_5"
       },
       {
         "candidate_id": "mt1_18",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is48_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e220": [
       {
         "candidate_id": "mt1_18",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io10_36",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io17_19",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_32",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal2_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e223": [
       {
         "candidate_id": "gal4_4",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io8_42",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e242": [
       {
         "candidate_id": "gal4_4",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e248": [
       {
         "candidate_id": "Itim1_17",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "Itim6_15",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim6_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e273": [
       {
         "candidate_id": "Icor8_6",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor3_17",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "act13_33",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "NT citation of Ps 2:7; source here is ps2_7"
       },
       {
         "candidate_id": "hebr5_5",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "NT citation of Ps 2:7; source here is ps2_7"
       },
       {
         "candidate_id": "act7_3",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "Augustine quotes Gen 12:1 (et de domo patris tui)"
       },
       {
         "candidate_id": "hebr1_5",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "NT citation of Ps 2:7; source here is ps2_7"
       },
       {
         "candidate_id": "lc4_8",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "parallel to mt4_10; encoded with mt4_10"
       },
       {
         "candidate_id": "mt4_10",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor8_5",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
       },
       {
         "candidate_id": "gen12_1",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps2_7",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen12_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps109_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e277": [
       {
         "candidate_id": "phil2_6",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "phil2_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim1_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e289": [
       {
         "candidate_id": "ex3_6",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Old Latin; ex3_5 omitted by Augustine"
       },
       {
         "candidate_id": "act3_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 source is ex3_6"
       },
       {
         "candidate_id": "act7_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 source is ex3_6"
       },
       {
         "candidate_id": "ex3_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 source is ex3_6"
       },
       {
         "candidate_id": "mc12_26",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 source is ex3_6"
       },
       {
         "candidate_id": "mt22_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 source is ex3_6"
       },
       {
         "candidate_id": "tob7_15",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 source is ex3_6"
+      },
+      {
+        "candidate_id": "ex3_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin; ex3_5 omitted by Augustine"
+      },
+      {
+        "candidate_id": "ex3_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin; ex3_5 omitted by Augustine"
+      },
+      {
+        "candidate_id": "ex3_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin; ex3_5 omitted by Augustine"
+      },
+      {
+        "candidate_id": "ex3_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin; ex3_5 omitted by Augustine"
       }
     ],
     "adt-l2-d1e292": [
       {
         "candidate_id": "rom9_5",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded"
       },
       {
         "candidate_id": "act3_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers back to Ex 3:6"
       },
       {
         "candidate_id": "act7_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers back to Ex 3:6"
       },
       {
         "candidate_id": "ex3_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers back to Ex 3:6"
       },
       {
         "candidate_id": "lc20_37",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers back to Ex 3:6"
       },
       {
         "candidate_id": "tob7_15",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers back to Ex 3:6"
       },
       {
         "candidate_id": "mc12_26",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers back to Ex 3:6"
       },
       {
         "candidate_id": "mt22_32",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers back to Ex 3:6"
+      },
+      {
+        "candidate_id": "ex3_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "manually found; Ex 3:6 in narrative context (cf. ex3_15)"
+      },
+      {
+        "candidate_id": "Icor6_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor6_19",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e305": [
       {
         "candidate_id": "rom1_20",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ex20_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e315": [
       {
         "candidate_id": "ex33_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "ex33_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ex33_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e318": [
       {
         "candidate_id": "io1_1",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ex33_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
       }
     ],
     "adt-l2-d1e324": [
       {
         "candidate_id": "ps142_2",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio3_2",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps38_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal6_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col2_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e327": [
       {
         "candidate_id": "ex33_13",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Old Latin wording"
       },
       {
         "candidate_id": "mt16_18",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "mc12_33",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "allusion to the double commandment, not a quotation"
       }
     ],
     "adt-l2-d1e330": [
       {
         "candidate_id": "io13_1",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom4_25",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom10_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e337": [
       {
         "candidate_id": "ps31_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps31_5",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Old Latin wording"
       },
       {
         "candidate_id": "ps31_4",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom4_7",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "Augustine cites the psalm (in capite psalmi); encoded as ps31_1"
+      },
+      {
+        "candidate_id": "ex33_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ex33_23",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is6_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e343": [
       {
         "candidate_id": "act13_33",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "NT citation of Ps 2:7; source here is ps2_7 (in psalmis)"
       },
       {
         "candidate_id": "hebr1_5",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "NT citation of Ps 2:7; source here is ps2_7 (in psalmis)"
       },
       {
         "candidate_id": "hebr5_5",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "NT citation of Ps 2:7; source here is ps2_7 (in psalmis)"
       },
       {
         "candidate_id": "ps2_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps2_8",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim6_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l2-d1e346": [
       {
         "candidate_id": "dan7_9",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "Old Latin wording"
       },
       {
         "candidate_id": "dan7_14",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "dan7_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "dan7_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -789,177 +1647,364 @@
     "adt-l3-d1e368": [
       {
         "candidate_id": "sap1_7",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e378": [
       {
         "candidate_id": "sap16_24",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "sap16_25",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "sap8_1",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e384": [
       {
         "candidate_id": "ps121_3",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps101_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps101_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e397": [
       {
         "candidate_id": "hebr1_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "'ignem ardentem' follows Ps 103:4, encoded as ps103_4"
+      },
+      {
+        "candidate_id": "ps103_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e428": [
       {
         "candidate_id": "Icor3_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e454": [
       {
         "candidate_id": "act3_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers to Ex 3:6"
       },
       {
         "candidate_id": "act7_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers to Ex 3:6"
       },
       {
         "candidate_id": "ex3_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers to Ex 3:6"
       },
       {
         "candidate_id": "ps49_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "tob7_15",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers to Ex 3:6"
       },
       {
         "candidate_id": "mc12_26",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers to Ex 3:6"
       },
       {
         "candidate_id": "mt22_32",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' \u2014 refers to Ex 3:6"
+      },
+      {
+        "candidate_id": "ex3_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ex3_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e457": [
       {
         "candidate_id": "io3_15",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io3_16",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "shared clause; quotation is Jn 3:14-15"
+      },
+      {
+        "candidate_id": "io3_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom6_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e463": [
       {
         "candidate_id": "sap9_16",
-        "intersectionCount": 19
+        "intersectionCount": 19,
+        "status": "encoded"
       },
       {
         "candidate_id": "sap9_14",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "sap9_15",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap9_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e473": [
       {
         "candidate_id": "hebr1_13",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "hebr2_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps109_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "Ps 109:1 cited here via Heb 1:13"
       },
       {
         "candidate_id": "Icor10_11",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
       },
       {
         "candidate_id": "hebr2_2",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr1_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr2_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr2_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e479": [
       {
         "candidate_id": "act7_32",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "act3_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' within the Acts 7 quotation"
       },
       {
         "candidate_id": "ex3_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' within the Acts 7 quotation"
       },
       {
         "candidate_id": "lc20_37",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' within the Acts 7 quotation"
       },
       {
         "candidate_id": "mc12_26",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' within the Acts 7 quotation"
       },
       {
         "candidate_id": "mt22_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' within the Acts 7 quotation"
       },
       {
         "candidate_id": "tob7_15",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "formula 'deus Abraham...' within the Acts 7 quotation"
       },
       {
         "candidate_id": "act7_30",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act7_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act7_29",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act7_31",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act7_33",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e482": [
       {
         "candidate_id": "gen22_1",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Old Latin wording"
       },
       {
         "candidate_id": "gen22_2",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "gen18_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen18_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen22_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen22_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen22_12",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l3-d1e489": [
       {
         "candidate_id": "gal3_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "io5_46",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Itim2_5",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "act7_52",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act7_51",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act7_53",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -967,209 +2012,448 @@
     "adt-l4-d1e513": [
       {
         "candidate_id": "rom5_9",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom5_10",
-        "intersectionCount": 17
+        "intersectionCount": 17,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor12_9",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_31",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps67_10",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e517": [
       {
         "candidate_id": "io1_1",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_3",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act17_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e520": [
       {
         "candidate_id": "io1_5",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e523": [
       {
         "candidate_id": "io1_14",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e526": [
       {
         "candidate_id": "Iio3_2",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap9_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e529": [
       {
         "candidate_id": "rom8_11",
-        "intersectionCount": 16
+        "intersectionCount": 16,
+        "status": "encoded"
       },
       {
         "candidate_id": "eph5_14",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt8_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim5_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e536": [
       {
         "candidate_id": "rom6_6",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "col3_1",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io20_17",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps21_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "cited as both psalm and cry from the cross"
+      },
+      {
+        "candidate_id": "mt27_46",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "cited as both psalm and cry from the cross"
+      },
+      {
+        "candidate_id": "eph4_25",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col3_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e539": [
       {
         "candidate_id": "io20_17",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "lc24_39",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col1_24",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io20_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc21_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor15_23",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil3_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e542": [
       {
         "candidate_id": "mt1_17",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "allusion to Matthew's division of the generations; no quotation"
       }
     ],
     "adt-l4-d1e551": [
       {
         "candidate_id": "mt12_40",
-        "intersectionCount": 17
+        "intersectionCount": 17,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io2_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e555": [
       {
         "candidate_id": "eph5_8",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e564": [
       {
         "candidate_id": "io17_20",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded"
       },
       {
         "candidate_id": "io17_21",
-        "intersectionCount": 20
+        "intersectionCount": 20,
+        "status": "encoded"
       },
       {
         "candidate_id": "io17_22",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e567": [
       {
         "candidate_id": "io17_23",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io17_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e577": [
       {
         "candidate_id": "rom10_18",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "not_found",
+        "note": "context (caeli enarrauerunt) points to Ps 18; encoded as ps18_5"
+      },
+      {
+        "candidate_id": "ps18_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e580": [
       {
         "candidate_id": "rom5_12",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap1_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e583": [
       {
         "candidate_id": "io10_18",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e615": [
       {
         "candidate_id": "rom1_21",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e621": [
       {
         "candidate_id": "io17_3",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io8_31",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io8_32",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e624": [
       {
         "candidate_id": "ier51_48",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "generic phrase 'caelum et terra et omnia quae in eis sunt'; not Jer 51:48"
       }
     ],
     "adt-l4-d1e627": [
       {
         "candidate_id": "gal4_4",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e631": [
       {
         "candidate_id": "io14_21",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded"
       },
       {
         "candidate_id": "io14_9",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e637": [
       {
         "candidate_id": "Itim3_16",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded"
       },
       {
         "candidate_id": "sap9_10",
-        "intersectionCount": 15
+        "intersectionCount": 15,
+        "status": "encoded"
       },
       {
         "candidate_id": "sap7_27",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e640": [
       {
         "candidate_id": "Icor1_21",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "interwoven with Jn 1:5"
+      },
+      {
+        "candidate_id": "io16_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap9_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap7_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sir24_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io15_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l4-d1e646": [
       {
         "candidate_id": "rom10_18",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "not_found",
+        "note": "psalm explicitly cited (in psalmo); encoded as ps18_4-5"
       },
       {
         "candidate_id": "ps18_4",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io15_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io7_39",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc1_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps18_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -1177,13 +2461,27 @@
     "adt-l5-d1e680": [
       {
         "candidate_id": "ex3_14",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       }
     ],
     "adt-l5-d1e740": [
       {
         "candidate_id": "rom8_9",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "deut6_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io4_24",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -1191,13 +2489,66 @@
     "adt-l6-d1e804": [
       {
         "candidate_id": "rom11_36",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "'ex ipso et per ipsum et in ipso' adapted to us, not a quotation"
+      },
+      {
+        "candidate_id": "eph4_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps62_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps72_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase combining Ps 72:27-28"
+      },
+      {
+        "candidate_id": "ps72_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase combining Ps 72:27-28"
       }
     ],
     "adt-l6-d1e823": [
       {
         "candidate_id": "io17_3",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor3_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor3_23",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor11_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -1205,69 +2556,163 @@
     "adt-l7-d1e845": [
       {
         "candidate_id": "io1_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l7-d1e867": [
       {
         "candidate_id": "lc10_22",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel; 'nouit' wording matches mt11_27"
       },
       {
         "candidate_id": "io1_14",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt11_27",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       }
     ],
     "adt-l7-d1e870": [
       {
         "candidate_id": "Iio1_5",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_14",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps35_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io5_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt5_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor1_30",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l7-d1e874": [
       {
         "candidate_id": "rom5_5",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "paraphrase"
       }
     ],
     "adt-l7-d1e877": [
       {
         "candidate_id": "Icor6_20",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor3_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor6_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio4_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l7-d1e902": [
       {
         "candidate_id": "ex3_14",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "adt-l7-d1e921": [
       {
         "candidate_id": "gen1_26",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_23",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
       }
     ],
     "adt-l7-d1e924": [
       {
         "candidate_id": "col3_10",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor11_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom12_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph5_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is7_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -1275,87 +2720,155 @@
     "adt-l8-d1e968": [
       {
         "candidate_id": "Itim1_5",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt5_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l8-d1e996": [
       {
         "candidate_id": "rom5_5",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor8_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "gal5_14",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_28",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt7_12",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal6_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio4_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l8-d1e999": [
       {
         "candidate_id": "mt11_29",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt11_28",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "adt-l8-d1e1006": [
       {
         "candidate_id": "Iio5_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "shared phrase 'ex deo natus est'; quotation is 1 Jn 4:7"
       },
       {
         "candidate_id": "Iio1_5",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio2_10",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio4_16",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio4_7",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio4_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio4_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l8-d1e1009": [
       {
         "candidate_id": "IIcor6_8",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor6_10",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor6_2",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor6_7",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor6_4",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor6_6",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIcor6_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIcor6_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIcor6_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -1363,13 +2876,93 @@
     "adt-l9-d1e1027": [
       {
         "candidate_id": "Icor8_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps68_33",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps104_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor8_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal4_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil3_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil3_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil3_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sir18_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l9-d1e1081": [
       {
         "candidate_id": "mt11_28",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io4_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps7_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iac1_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt24_19",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt12_37",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -1377,31 +2970,45 @@
     "adt-l10-d1e1150": [
       {
         "candidate_id": "ps110_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "identical incipit; encoded as ps9_2"
       },
       {
         "candidate_id": "ps137_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "identical incipit; encoded as ps9_2"
       },
       {
         "candidate_id": "ps9_2",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "identical incipit also at Ps 110:1 and 137:1; ps9_2 chosen"
       },
       {
         "candidate_id": "deut6_5",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "parallel wording; encoded as mt22_37"
       },
       {
         "candidate_id": "lc10_27",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "parallel wording; encoded as mt22_37"
       },
       {
         "candidate_id": "mt22_37",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "identical in Deut 6:5, Mk 12:30, Lk 10:27; mt22_37 chosen"
       },
       {
         "candidate_id": "mc12_30",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "parallel wording; encoded as mt22_37"
       }
     ]
   },
@@ -1409,69 +3016,161 @@
     "adt-l12-d1e1309": [
       {
         "candidate_id": "gen1_26",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen1_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l12-d1e1312": [
       {
         "candidate_id": "gen1_26",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "hypothetical reformulation ('tuam'), not a quotation"
+      },
+      {
+        "candidate_id": "gen1_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l12-d1e1315": [
       {
         "candidate_id": "rom1_4",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps3_9",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps17_30",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps44_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen1_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l12-d1e1321": [
       {
         "candidate_id": "Icor11_7",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       }
     ],
     "adt-l12-d1e1328": [
       {
         "candidate_id": "Itim2_15",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       }
     ],
     "adt-l12-d1e1331": [
       {
         "candidate_id": "gal3_28",
-        "intersectionCount": 16
+        "intersectionCount": 16,
+        "status": "encoded"
       },
       {
         "candidate_id": "col3_10",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "gal3_27",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "gal3_26",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph4_23",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph4_24",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col3_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l12-d1e1344": [
       {
         "candidate_id": "rom7_25",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps48_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom7_24",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l12-d1e1366": [
       {
         "candidate_id": "Icor13_12",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio3_2",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iob28_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -1479,269 +3178,439 @@
     "adt-l13-d1e1387": [
       {
         "candidate_id": "io1_1",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_3",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_12",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_13",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_14",
-        "intersectionCount": 19
+        "intersectionCount": 19,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_11",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_4",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_5",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_6",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_9",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_10",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_8",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_7",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1390": [
       {
         "candidate_id": "io1_1",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_3",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_4",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_5",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_6",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_7",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1397": [
       {
         "candidate_id": "io1_7",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_11",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_9",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_10",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1406": [
       {
         "candidate_id": "io1_13",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_12",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt15_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt14_31",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1428": [
       {
         "candidate_id": "ps9_24",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1454": [
       {
         "candidate_id": "io1_13",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_14",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1460": [
       {
         "candidate_id": "rom5_5",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom5_9",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom5_10",
-        "intersectionCount": 17
+        "intersectionCount": 17,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph4_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1466": [
       {
         "candidate_id": "rom5_10",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_31",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph1_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal2_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1469": [
       {
         "candidate_id": "eph2_2",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "eph2_3",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded"
       },
       {
         "candidate_id": "eph2_1",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen3_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen3_19",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen6_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1476": [
       {
         "candidate_id": "ps93_15",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "previously encoded"
       },
       {
         "candidate_id": "ps93_12",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "previously encoded"
       },
       {
         "candidate_id": "ps93_14",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "previously encoded"
       }
     ],
     "adt-l13-d1e1482": [
       {
         "candidate_id": "Icor1_25",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1488": [
       {
         "candidate_id": "act26_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "col1_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "act26_18",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act26_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col1_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1492": [
       {
         "candidate_id": "rom8_30",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor10_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_28",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_29",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_31",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1495": [
       {
         "candidate_id": "rom5_12",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom5_11",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom5_9",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom5_10",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap12_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1504": [
       {
         "candidate_id": "col2_1",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_14",
-        "intersectionCount": 15
+        "intersectionCount": 15,
+        "status": "encoded"
       },
       {
         "candidate_id": "col2_3",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col2_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l13-d1e1507": [
       {
         "candidate_id": "rom1_23",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "col2_3",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       }
     ]
   },
@@ -1749,91 +3618,188 @@
     "adt-l14-d1e1621": [
       {
         "candidate_id": "rom10_3",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iob28_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l14-d1e1624": [
       {
         "candidate_id": "rom11_36",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act17_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps72_23",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l14-d1e1643": [
       {
         "candidate_id": "Icor6_17",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "adt-l14-d1e460": [
       {
         "candidate_id": "Icor4_7",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
       }
     ],
     "adt-l14-d1e1659": [
       {
         "candidate_id": "eph4_24",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom12_2",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph4_23",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l14-d1e1662": [
       {
         "candidate_id": "Icor14_14",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "eph4_24",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io19_30",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "qoh3_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col2_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col3_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col3_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
       }
     ],
     "adt-l14-d1e1668": [
       {
         "candidate_id": "IIcor3_18",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor13_12",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io15_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l14-d1e1672": [
       {
         "candidate_id": "Iio3_2",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor15_49",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_29",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l14-d1e1675": [
       {
         "candidate_id": "gen1_26",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt25_34",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor15_52",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio3_2",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io17_3",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is26_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   },
@@ -1841,273 +3807,663 @@
     "adt-l15-d1e1693": [
       {
         "candidate_id": "ps104_4",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "sir24_29",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps104_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is55_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is55_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is7_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps13_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1696": [
       {
         "candidate_id": "sap13_2",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "sap13_4",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "sap13_1",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom1_20",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "sap13_5",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap13_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1769": [
       {
         "candidate_id": "Icor13_12",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor3_18",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1772": [
       {
         "candidate_id": "Iio3_2",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor11_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1779": [
       {
         "candidate_id": "Ith5_8",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Ith5_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Ith5_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "prov30_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1791": [
       {
         "candidate_id": "lc5_22",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded"
       },
       {
         "candidate_id": "lc5_21",
-        "intersectionCount": 16
+        "intersectionCount": 16,
+        "status": "encoded"
       },
       {
         "candidate_id": "mc2_7",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "Augustine quotes Luke 5:21 (named); Mark parallel"
       },
       {
         "candidate_id": "mt9_4",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap2_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt9_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt9_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc12_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1794": [
       {
         "candidate_id": "mt15_11",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt15_17",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt15_18",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt15_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt15_19",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt9_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt9_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1798": [
       {
         "candidate_id": "io1_1",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1801": [
       {
         "candidate_id": "io13_24",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "mc14_18",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "Augustine cites John 13:21 (named)"
       },
       {
         "candidate_id": "io13_22",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "io13_21",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "io13_23",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1807": [
       {
         "candidate_id": "Ith2_13",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom10_17",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act6_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sir1_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1848": [
       {
         "candidate_id": "io5_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1889": [
       {
         "candidate_id": "lc24_44",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor14_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io15_25",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc16_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt22_40",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1893": [
       {
         "candidate_id": "rom5_5",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio4_13",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio4_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio4_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor1_24",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio4_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio4_19",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1896": [
       {
         "candidate_id": "gal6_15",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "ending 'fides quae per dilectionem operatur' identifies Gal 5:6"
       },
       {
         "candidate_id": "gal5_6",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1899": [
       {
         "candidate_id": "io4_14",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "io4_11",
-        "intersectionCount": 15
+        "intersectionCount": 15,
+        "status": "encoded"
       },
       {
         "candidate_id": "io4_13",
-        "intersectionCount": 19
+        "intersectionCount": 19,
+        "status": "encoded"
       },
       {
         "candidate_id": "io4_10",
-        "intersectionCount": 25
+        "intersectionCount": 25,
+        "status": "encoded"
       },
       {
         "candidate_id": "io7_37",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io7_38",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "io7_39",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1902": [
       {
         "candidate_id": "eph4_11",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "eph4_12",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded"
       },
       {
         "candidate_id": "eph4_10",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph4_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph4_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps67_19",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act9_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt25_40",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr2_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph4_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_29",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1905": [
       {
         "candidate_id": "act11_17",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded"
       },
       {
         "candidate_id": "act10_46",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "act10_44",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
       },
       {
         "candidate_id": "act2_38",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act2_37",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act8_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act10_45",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act11_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act11_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1912": [
       {
         "candidate_id": "col1_13",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio4_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1915": [
       {
         "candidate_id": "prov19_21",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Old Latin wording"
       }
     ],
     "adt-l15-d1e1959": [
       {
         "candidate_id": "mt10_20",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded"
       },
       {
         "candidate_id": "gal4_6",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io15_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io20_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1962": [
       {
         "candidate_id": "mt28_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1965": [
       {
         "candidate_id": "act8_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act8_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1978": [
       {
         "candidate_id": "io7_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io15_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ],
     "adt-l15-d1e1991": [
       {
         "candidate_id": "mt28_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "deut6_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal4_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io15_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
       }
     ]
   }
